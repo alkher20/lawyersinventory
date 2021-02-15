@@ -1,0 +1,102 @@
+
+/*2.8 Latest Post Area*/
+
+.latest-post-area {
+    padding: 35px 0 90px;
+    background-color: #ffffff;
+}
+
+.latest-post-area .latest-post-header {
+    text-align: center;
+    margin-bottom: 68px;
+}
+
+.latest-post-header .section-title {}
+
+.latest-post-header p {
+    color: #383838;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 35px;
+}
+
+.single-latest-post {
+    border-radius: 5px;
+    box-shadow: 0 1px 1px 0 rgba(133, 133, 133, 1);
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+
+.single-latest-post:hover {
+    box-shadow: 0 3px 8px 0 rgba(133, 133, 133, 1);
+}
+
+.single-latest-post .latest-post-img {}
+
+.single-latest-post .latest-post-img a {}
+
+.single-latest-post .latest-post-img a img {
+    width: 100%;
+}
+
+.single-latest-post .latest-post-content {
+    padding: 28px 30px 40px;
+}
+
+.single-latest-post .latest-post-content h3,
+.single-latest-post .latest-post-content h3 a {
+    color: #062045;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 27px;
+}
+
+.single-latest-post .latest-post-content h3 {}
+
+.single-latest-post .latest-post-content h3 a {}
+
+.single-latest-post .latest-post-content h3 a:hover {
+    color: #c29c6a;
+}
+
+.single-latest-post .latest-post-content span {
+    color: #c29c6a;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+}
+
+.single-latest-post .latest-post-content p {
+    color: #b7b7b7;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin: 11px 0 33px;
+}
+
+.single-latest-post .latest-post-content a.read-more {
+    background: #c29c6a none repeat scroll 0 0;
+    border: 3px solid #c29c6a;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 400;
+    height: 50px;
+    line-height: 43px;
+    padding: 0 18px;
+    text-transform: uppercase;
+}
+
+.single-latest-post .latest-post-content a.read-more:hover {
+    background: transparent none repeat scroll 0 0;
+    color: #c29c6a;
+}

@@ -1,0 +1,459 @@
+<wpml-config>
+    
+    <custom-fields> 
+        <custom-field action="copy">_falcons_slider_slider_image</custom-field>
+        <custom-field action="copy">_falcons_slider_icon_image</custom-field>
+        <custom-field action="copy">_falcons_slider_title</custom-field>
+        <custom-field action="copy">_falcons_slider_description</custom-field>
+        <custom-field action="copy">_falcons_slider_btn_name1</custom-field>
+        <custom-field action="copy">_falcons_slider_btn_link1</custom-field>
+        <custom-field action="copy">_falcons_slider_btn_name2</custom-field>
+        <custom-field action="copy">_falcons_slider_btn_link2</custom-field>
+        <custom-field action="copy">_falcons_slider_video_name</custom-field>
+        <custom-field action="copy">_falcons_slider_slider_link1</custom-field>
+        <custom-field action="copy">_falcons_slider_slider_link2</custom-field>
+        <custom-field action="copy">_falcons_slider_slider_link3</custom-field>
+
+        <custom-field action="copy">_falcons_company_location_map</custom-field>
+        <custom-field action="copy">_falcons_company_location_contact</custom-field>
+        <custom-field action="copy">_falcons_company_location_icon</custom-field>
+
+        <custom-field action="copy">_falcons_property_address_country_name</custom-field>
+        <custom-field action="copy">_falcons_property_address_region_name</custom-field>
+        <custom-field action="copy">_falcons_property_address_address_name</custom-field>
+        <custom-field action="copy">_falcons_property_address_zip</custom-field>
+        <custom-field action="copy">_falcons_property_address_map_canvas</custom-field>
+        <custom-field action="copy">_falcons_property_address_convert_zip</custom-field>
+        <custom-field action="copy">_falcons_property_address_lat</custom-field>
+        <custom-field action="copy">_falcons_property_address_lng</custom-field>
+
+        <custom-field action="copy">_falcons_progress_bar_accordian_shortcode</custom-field>
+        <custom-field action="copy">_falcons_progress_bar_progress_shortcode</custom-field>
+
+        <custom-field action="copy">_falcons_pricing_column</custom-field>
+        <custom-field action="copy">_falcons_pricing_shortcode</custom-field>
+
+        <custom-field action="copy">_falcons_testimonial_author_name</custom-field>
+        <custom-field action="copy">_falcons_testimonial_author_address</custom-field>
+        <custom-field action="copy">_falcons_testimonial_author_designation</custom-field>
+        <custom-field action="copy">_falcons_testimonial_author_company</custom-field>
+
+        <custom-field action="copy">_tons_of_feature_icon</custom-field>
+        <custom-field action="copy">_tons_of_featurel_icon</custom-field>
+       
+        <custom-field action="copy">_company_info_feature_icon</custom-field>
+        <custom-field action="copy">_company_info_feature_number</custom-field>
+        <custom-field action="copy">_company_info_feature_title</custom-field>
+    </custom-fields>
+
+
+    <custom-types>
+        <custom-type translate="1">block</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">slider</custom-type>
+        <custom-type translate="1">falcons_progress</custom-type>
+        <custom-type translate="1">falcons_pricing</custom-type>
+        <custom-type translate="1">company_location</custom-type>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">feature</custom-type>
+        <custom-type translate="1">company</custom-type>
+    </custom-types>
+
+    <admin-texts>
+        <key name="falcons_option_data">
+            <key name="falcons-favicon">
+                <key name="1">
+                    <key name="url" />
+                    <key name= "id" />
+                    <key name="height" />
+                    <key name="width" />
+                    <key name="thumbnail" />
+                </key>
+            </key>
+            <key name="falcons-favicon-iphone">
+                <key name="1">
+                    <key name="url" />
+                    <key name= "id" />
+                    <key name="height" />
+                    <key name="width" />
+                    <key name="thumbnail" />
+                </key>
+            </key>
+            <key name="falcons-favicon-ipad">
+                <key name="1">
+                    <key name="url" />
+                    <key name= "id" />
+                    <key name="height" />
+                    <key name="width" />
+                    <key name="thumbnail" />
+                </key>
+            </key>
+            
+            <key name="falcons-custom-css" />
+            <key name="falcons-custom-js" />
+            <key name="falcons-show-page-sidebar" />
+            <key name="falcons-share-button" />
+            <key name="falcons-share-button-facebook" />
+            <key name="falcons-share-button-twitter" />
+            <key name="falcons-share-button-google" />
+            <key name="falcons-share-button-linkedin" />
+            <key name="falcons-share-button-envelope" />
+            <key name="falcons-share-button-pinterest" />
+            <key name="falcons-top-language" />
+            <key name="falcons-login-option" />
+            
+            <key name="falcons-wpml-select"/>
+            <key name="falcons-header-switch"/>
+            <key name="falcons-multi-header-image" />
+            <key name="falcons-social-profile-title" />
+            <key name="falcons-blog-switch" />
+            <key name="falcons-multi-breadcrumb-image" />
+            <key name="falcons-breadcrumb-switch" />
+            <key name="falcons-multi-topBar-image" />
+            <key name="falcons-top-bar-switch" />
+            
+            
+            <key name="falcons-social-profile"/>
+            <key name="falcons-facebook-profile"/>
+            <key name="falcons-twitter-profile"/>
+            <key name="falcons-google-profile"/>
+            <key name="falcons-linkedin-profile"/>
+            <key name="falcons-pinterest-profile"/>
+            
+            <key name="falcons-partners-switch"/>
+            <key name="falcons-our-partners">
+                <key name="1">
+                    <key name="title" />
+                    <key name="description" />
+                    <key name="url" />
+                    <key name="sort" />
+                    <key name="attachment_id" />
+                    <key name="thumb" />
+                    <key name="image" />
+                    <key name="height" />
+                    <key name="width" />
+                </key>
+            </key>
+            <key name="falcons-sidebar-latest-news-image" />
+            <key name="falcons-footer-menu-switch" />
+            <key name="falcons-footer-switch" />
+            <key name="falcons-multi-footer-image" />
+            <key name="falcons-bottom-switch" />
+            <key name="falcons-multi-bottom-image" />
+            <key name="falcons-left-footer-switch" />
+            <key name="falcons-middle-footer-switch" />
+            <key name="falcons-right-footer-switch" />
+            <key name="falcons-down-footer-switch" />
+            <key name="falcons-extra-middle-footer-switch" />
+            <key name="falcons-show-footer-credits" />
+            <key name="falcons-show-footer-copyrights" />
+            <key name="falcons-copyright-text" />
+            <key name="falcons-after-copyright-text" />
+            <key name="falcons-privacy" />
+            <key name="falcons-condition" />
+            <key name="falcons-select-stylesheet" />
+            
+            
+            
+            
+            
+            
+            <key name="falcons-language">
+                <key name="1">
+                    <key name="EN" />
+                    <key name="DE" />
+                    <key name="IT" />
+                    <key name="FR" />
+                </key>
+            </key>
+            
+            
+            <key name="falcons-left-footer-switch"/>
+            <key name="falcons-middle-footer-switch"/>
+            <key name="falcons-right-footer-switch"/>
+            <key name="falcons-show-footer-copyrights"/>
+            <key name="falcons-copyright-text"/>
+            <key name="falcons-powered-by"/>
+            <key name="falcons-company-link"/>
+            <key name="falcons-select-stylesheet"/>
+            
+            <key name="falcons-body-typography">
+                <key name="1">
+                    <key name="font-family" />
+                    <key name="font-options" />
+                    <key name="google" />
+                    <key name="font-backup" />
+                    <key name="font-weight" />
+                    <key name="font-style" />
+                    <key name="text-align" />
+                    <key name="line-height" />
+                    <key name="color" />
+                </key>
+            </key>
+            
+            <key name="falcons-header-typography">
+                <key name="1">
+                    <key name="font-family" />
+                    <key name="font-options" />
+                    <key name="google" />
+                    <key name="font-backup" />
+                    <key name="font-weight" />
+                    <key name="font-style" />
+                    <key name="text-align" />
+                    <key name="line-height" />
+                    <key name="color" />
+                </key>
+            </key>
+            
+            <key name="falcons-opt-text">
+                <key name="falcons-opt-textarea">
+                    
+                    <key name="falcons-about-company-slides">
+                        <key name="1">
+                            <key name="title" />
+                            <key name="description" />
+                            <key name="url" />
+                            <key name="sort" />
+                            <key name="attachment_id" />
+                            <key name="thumb" />
+                            <key name="image" />
+                            <key name="height" />
+                            <key name="width" />
+                        </key>
+                    </key>
+                    
+                    <!-- need from here -->
+                    <key name="falcons-about-company-text">
+                        <key name="falcons-about-company-textarea">
+                            
+                            <key name="falcons-page-banner-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            <key name="falcons-page-banner-icon">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <key name="falcons-construction-header-slider">
+                                <key name="1">
+                                    <key name="title" />
+                                    <key name="description" />
+                                    <key name="url" />
+                                    <key name="sort" />
+                                    <key name="attachment_id" />
+                                    <key name="thumb" />
+                                    <key name="image" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                </key>
+                            </key>
+                            
+                            
+                            <key name="falcons-construction-testimonial-footer-banner-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            <key name="construction-feature-big-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />
+                                    <key name="thumbnail" />
+                                </key>
+                            </key>
+                            
+                            
+                            
+                            <key name="falcons-testimonial-footer-banner-image">
+                                <key name="1">
+                                    <key name="url" />
+                                    <key name="id" />
+                                    <key name="height" />
+                                    <key name="width" />	
+                                    <key name="thumbnail" />			
+                                </key>				
+                            </key>
+                            
+                            <key name="falcons-construction-TOF-title">
+                                <key name="construction-construction-image">
+                                    <key name="1">
+                                        <key name="url" />
+                                        <key name="id" />
+                                        <key name="height" />
+                                        <key name="width" />	
+                                        <key name="thumbnail" />			
+                                    </key>				
+                                </key>
+                                
+                                <key name="falcons-construction-textarea">
+                                    <key name="falcons-construction-partner">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>			
+                                    </key>
+                                    
+                                    
+                                    <key name="falcons-service-testimonials">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>			
+                                    </key>
+                                    
+                                    <key name="construction-about-company-slides">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>			
+                                    </key>
+                                    
+                                    
+                                    <key name="falcons-opt-slides">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>				
+                                    </key>
+                                    
+                                    
+                                    <key name="falcons-home-page-slider">
+                                        <key name="1">
+                                            <key name="title" />
+                                            <key name="description" />
+                                            <key name="url" />
+                                            <key name="sort" />	
+                                            <key name="attachment_id" />
+                                            <key name="thumb" />
+                                            <key name="image" />	
+                                            <key name="height" />
+                                            <key name="width" />				
+                                        </key>				
+                                    </key>
+                                    <key name="falcons-login-option"/>
+                                    <key name="falcons-general-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="falcons-product-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="falcons-driver-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="falcons-testimonial-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="falcons-contact-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    <key name="falcons-location-banner">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    
+                                    
+                                    
+                                    
+                                    <key name="falcons-show-footer-widgets"/>
+                                    <key name="falcons-footer-widgets-icon">
+                                        <key name="1">
+                                            <key name="url" />
+                                            <key name="height" />
+                                            <key name="width" />
+                                            <key name="thumbnail" />					
+                                        </key>				
+                                    </key>
+                                    
+                                    <key name="falcons-copyright-text"/>
+                                    <key name="falcons-powered-by"/>
+                                    <key name="falcons-company-link"/>
+                                    <key name="falcons-select-stylesheet"/>			
+                                    
+                                    
+                                    
+                                </key>
+                            </admin-texts>
+                            
+                        </wpml-config>

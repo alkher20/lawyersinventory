@@ -1,0 +1,30 @@
+.parent-listing {
+    overflow: hidden;
+
+}
+.widget_right {
+    float: right;
+    width: 70%;
+
+}
+
+.widget_right .blog-posts p {
+  margin-bottom: 0;
+}
+
+.widget_right .blog-posts p a {
+  color: #333;
+  font-size: 14px;
+  font-weight: bold;
+
+}
+.widget_left {
+    overflow: hidden;
+    width: 25%;
+    border-radius: 0px;
+
+}
+.margin-top{margin-top:20px;}
+.image-80{
+	width:100%;
+}

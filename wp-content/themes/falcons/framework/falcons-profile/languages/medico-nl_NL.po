@@ -1,0 +1,2178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Directory\n"
+"POT-Creation-Date: 2016-03-17 17:37+0600\n"
+"PO-Revision-Date: 2016-03-17 17:37+0600\n"
+"Last-Translator: \n"
+"Language-Team: e-plugins <aktar567@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin.php:348 plugin.php:402
+msgid "Categories"
+msgstr ""
+
+#: plugin.php:359 plugin.php:360 plugin.php:374
+#: template/cpt1/slider-search.php:39
+msgid "cpt2"
+msgstr ""
+
+#: plugin.php:361 plugin.php:416
+msgid "Parent Item:"
+msgstr ""
+
+#: plugin.php:362 plugin.php:417
+msgid "All Items"
+msgstr ""
+
+#: plugin.php:363 plugin.php:418
+msgid "Add New Item"
+msgstr ""
+
+#: plugin.php:364 plugin.php:419
+msgid "Add New"
+msgstr ""
+
+#: plugin.php:365 plugin.php:420
+msgid "New Item"
+msgstr ""
+
+#: plugin.php:366 plugin.php:421
+msgid "Edit Item"
+msgstr ""
+
+#: plugin.php:367 plugin.php:422
+msgid "Update Item"
+msgstr ""
+
+#: plugin.php:368 plugin.php:423
+msgid "View Item"
+msgstr ""
+
+#: plugin.php:369 plugin.php:424
+msgid "Search Item"
+msgstr ""
+
+#: plugin.php:370 plugin.php:425
+msgid "Not found"
+msgstr ""
+
+#: plugin.php:371 plugin.php:426
+msgid "Not found in Trash"
+msgstr ""
+
+#: plugin.php:375
+msgid "cpt2 "
+msgstr ""
+
+#: plugin.php:414 plugin.php:415 plugin.php:429
+#: template/cpt1/slider-search.php:38
+msgid "cpt1"
+msgstr ""
+
+#: plugin.php:430
+msgid "cpt1 "
+msgstr ""
+
+#: plugin.php:462
+msgid "Pricing Table"
+msgstr ""
+
+#: plugin.php:465 plugin.php:486 plugin.php:507 plugin.php:528 plugin.php:549
+#: plugin.php:570
+msgid "Content"
+msgstr ""
+
+#: plugin.php:473 plugin.php:494 plugin.php:515 plugin.php:536
+msgid "Style Name"
+msgstr ""
+
+#: plugin.php:475 plugin.php:496 plugin.php:517 plugin.php:538 plugin.php:580
+msgid "Default"
+msgstr ""
+
+#: plugin.php:476
+msgid "You can select the style from wp-admin e.g : style-1."
+msgstr ""
+
+#: plugin.php:483
+msgid "Signup "
+msgstr ""
+
+#: plugin.php:497 plugin.php:518
+msgid "."
+msgstr ""
+
+#: plugin.php:504
+msgid "My Acount "
+msgstr ""
+
+#: plugin.php:525
+msgid "Public Profile "
+msgstr ""
+
+#: plugin.php:539
+msgid "You can select the style from wp-admin e.g : style-1 , style-2 "
+msgstr ""
+
+#: plugin.php:546
+msgid "User Directory "
+msgstr ""
+
+#: plugin.php:557
+msgid "Show  number of user / Page"
+msgstr ""
+
+#: plugin.php:559
+msgid "12"
+msgstr ""
+
+#: plugin.php:560
+msgid "You can set the number : 10,20 "
+msgstr ""
+
+#: plugin.php:567
+msgid "Login"
+msgstr ""
+
+#: plugin.php:578
+msgid " Login"
+msgstr ""
+
+#: plugin.php:581
+msgid "Default "
+msgstr ""
+
+#: plugin.php:640
+msgid "Invalid Username & Password"
+msgstr ""
+
+#: plugin.php:1949 plugin.php:1952
+msgid "Claim Approve "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:10
+msgid "User Setting"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:122
+msgid "Create Date"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:123
+#: template/private-profile/interested-1.php:239
+#: template/private-profile/interested-1.php:248
+#: template/signup/wizard-style-2.php:126
+msgid "User Name"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:124 admin/pages/settings.php:53
+#: template/profile-public/profile-template.php:111
+#: template/cpt1/ajax-single-cpt1.php:477
+#: template/private-profile/interested-1.php:240
+#: template/private-profile/interested-1.php:249
+msgid "Email"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:125
+msgid "Expiry Date"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:126
+#: template/private-profile/profile-level-1.php:578
+msgid "Payment Status"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:127
+msgid "Role"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:128
+msgid "Balance"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:129 admin/pages/package_all.php:221
+#: admin/pages/profile-fields.php:47 admin/pages/profile-fields.php:316
+msgid "Action"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:169
+msgid "Edit"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:170 admin/pages/profile-fields.php:268
+#: admin/pages/profile-fields.php:283 admin/pages/profile-fields.php:365
+msgid "Delete"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:195
+#: template/user-directory/directory-template.php:200
+msgid "&laquo; Previous"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:196
+#: template/user-directory/directory-template.php:201
+msgid "Next &raquo;"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:21
+#: admin/pages/package_all.php:171 admin/pages/settings.php:32
+msgid "Please install pages, email template and setting. This is required"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:21
+#: admin/pages/package_all.php:171 admin/pages/settings.php:32
+msgid "Install Now"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:32
+msgid "My Account"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:43
+msgid "Short Code"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:51
+msgid "Php Code"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:60
+msgid "My Account Page"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:68
+#: admin/pages/package_all.php:352
+msgid "View Page"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:74
+msgid "Profile Fields Setting"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:76
+msgid "Add /Edit/ Remove Profile Fields"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:81
+#: admin/pages/profile-fields.php:36
+msgid "My Account Menu"
+msgstr ""
+
+#: admin/pages/membership-profile-wizard.php:83
+msgid "Show/Hide/Add Menu"
+msgstr ""
+
+#: admin/pages/dashboard.php:9
+msgid "iv_directories Affiliate Dashboard"
+msgstr ""
+
+#: admin/pages/dashboard.php:10
+msgid "Your Dashboard, Summary, Status, Shortcuts to modules"
+msgstr ""
+
+#: admin/pages/metabox.php:21 admin/pages/cpt2-metabox.php:21
+msgid "User ID :"
+msgstr ""
+
+#: admin/pages/metabox.php:39 admin/pages/cpt2-metabox.php:39
+msgid "Approve"
+msgstr ""
+
+#: admin/pages/dir_setting.php:20
+msgid "Directory Setting"
+msgstr ""
+
+#: admin/pages/dir_setting.php:50
+msgid "Days #"
+msgstr ""
+
+#: admin/pages/dir_setting.php:57
+msgid "The new item badge will show for the days"
+msgstr ""
+
+#: admin/pages/dir_setting.php:62
+msgid "Listing Page toggle button[Search + Map] "
+msgstr ""
+
+#: admin/pages/dir_setting.php:66
+msgid "Show"
+msgstr ""
+
+#: admin/pages/dir_setting.php:71
+msgid "Hide"
+msgstr ""
+
+#: admin/pages/dir_setting.php:76
+msgid "Listing Page Top Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:80
+msgid "Show  Top Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:85
+msgid "Hide Top Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:92
+msgid "Listing Page Search Bar"
+msgstr ""
+
+#: admin/pages/dir_setting.php:96
+msgid "Show  Search Bar"
+msgstr ""
+
+#: admin/pages/dir_setting.php:101
+msgid "Hide Search Bar"
+msgstr ""
+
+#: admin/pages/dir_setting.php:108
+#: template/cpt1/ajax-single-cpt1.php:607
+msgid "Claim"
+msgstr ""
+
+#: admin/pages/dir_setting.php:112
+msgid "Show Claim"
+msgstr ""
+
+#: admin/pages/dir_setting.php:117
+msgid "Hide Claim"
+msgstr ""
+
+#: admin/pages/dir_setting.php:124
+msgid "Listing Publish By User"
+msgstr ""
+
+#: admin/pages/dir_setting.php:129
+msgid "Admin Will Approve "
+msgstr ""
+
+#: admin/pages/dir_setting.php:135
+msgid "User Can Publish"
+msgstr ""
+
+#: admin/pages/dir_setting.php:146
+msgid "Listing Radius"
+msgstr ""
+
+#: admin/pages/dir_setting.php:164 admin/pages/settings.php:1006
+msgid "Cron Job URL"
+msgstr ""
+
+#: admin/pages/package_all.php:187 admin/pages/package_all.php:317
+msgid "Create A New Package"
+msgstr ""
+
+#: admin/pages/package_all.php:198
+msgid "All Package / Membership Level"
+msgstr ""
+
+#: admin/pages/package_all.php:216 admin/pages/package_create.php:96
+#: template/private-profile/profile-level-1.php:664
+#: template/private-profile/iv_stripe_form_upgrade.php:26
+#: template/signup/iv_stripe_form_2.php:23 template/signup/paypal_form_2.php:2
+msgid "Package Name"
+msgstr ""
+
+#: admin/pages/package_all.php:217
+#: template/private-profile/profile-level-1.php:700
+#: template/private-profile/iv_stripe_form_upgrade.php:65
+#: template/signup/iv_stripe_form_2.php:76
+#: template/signup/paypal_form_2.php:60
+msgid "Amount"
+msgstr ""
+
+#: admin/pages/package_all.php:218 admin/pages/profile-fields.php:44
+msgid "Link"
+msgstr ""
+
+#: admin/pages/package_all.php:219
+#: template/private-profile/profile-level-1.php:588
+msgid "User Role"
+msgstr ""
+
+#: admin/pages/package_all.php:220
+#: template/private-profile/profile-all-post-1.php:57
+msgid "Status"
+msgstr ""
+
+#: admin/pages/package_all.php:334
+msgid ""
+"User role \"Basic\" is created on the plugin activation. Paid exprired or "
+"unsuccessful payment user will set on the \"Basic\" user role."
+msgstr ""
+
+#: admin/pages/package_all.php:348
+msgid "Package Page :"
+msgstr ""
+
+#: admin/pages/package_all.php:360
+msgid ""
+"Note: You can use other available pricing table. The package link URL will "
+"go on \"Sign UP \" button."
+msgstr ""
+
+#: admin/pages/directory_fields.php:24
+msgid "Listing Fields"
+msgstr ""
+
+#: admin/pages/map_marker.php:24
+msgid "cpt1 Category Image / Map Marker"
+msgstr ""
+
+#: admin/pages/map_marker.php:30 admin/pages/map_marker.php:186
+msgid "Category Main"
+msgstr ""
+
+#: admin/pages/map_marker.php:31 admin/pages/map_marker.php:187
+msgid "Sub Category"
+msgstr ""
+
+#: admin/pages/map_marker.php:32 admin/pages/map_marker.php:188
+msgid "Map Marker"
+msgstr ""
+
+#: admin/pages/map_marker.php:33 admin/pages/map_marker.php:189
+#: admin/pages/map_marker.php:390 admin/pages/map_marker.php:392
+msgid "Category Image"
+msgstr ""
+
+#: admin/pages/map_marker.php:179
+msgid "cpt2 Category Image / Map Marker"
+msgstr ""
+
+#: admin/pages/map_marker.php:343 admin/pages/map_marker.php:345
+msgid "Marker Image"
+msgstr ""
+
+#: admin/pages/profile-fields.php:24 admin/pages/profile-fields.php:392
+#: admin/pages/protected_page.php:155 admin/pages/settings.php:125
+msgid "Update"
+msgstr ""
+
+#: admin/pages/profile-fields.php:29
+msgid "Update Profile Setting"
+msgstr ""
+
+#: admin/pages/profile-fields.php:41
+msgid "Menu Title / Label"
+msgstr ""
+
+#: admin/pages/profile-fields.php:58
+#: template/private-profile/profile-template-1.php:638
+#: template/private-profile/profile-all-post-1.php:33
+msgid "cpt1 Home"
+msgstr ""
+
+#: admin/pages/profile-fields.php:81
+#: template/private-profile/profile-level-1.php:483
+msgid "Membership Level"
+msgstr ""
+
+#: admin/pages/profile-fields.php:106
+#: template/private-profile/profile-template-1.php:669
+msgid "Account Settings"
+msgstr ""
+
+#: admin/pages/profile-fields.php:129
+msgid "All Listing"
+msgstr ""
+
+#: admin/pages/profile-fields.php:153
+#: template/private-profile/profile-new-law-firms.php:9
+msgid "New cpt1"
+msgstr ""
+
+#: admin/pages/profile-fields.php:177
+msgid "New cpt2"
+msgstr ""
+
+#: admin/pages/profile-fields.php:202
+#: template/private-profile/profile-template-1.php:605
+#: template/private-profile/my-favorites-1.php:210
+msgid "My Favorites"
+msgstr ""
+
+#: admin/pages/profile-fields.php:225
+#: template/private-profile/interested-1.php:214
+#: template/private-profile/profile-template-1.php:620
+msgid "Who is Interested"
+msgstr ""
+
+#: admin/pages/profile-fields.php:295 admin/pages/profile-fields.php:380
+#: template/private-profile/profile-edit-law-firms.php:788
+#: template/private-profile/profile-edit-law-firms.php:1184
+#: template/private-profile/profile-edit-lawyers.php:718
+#: template/private-profile/profile-edit-lawyers.php:1057
+#: template/private-profile/profile-new-lawyers.php:625
+#: template/private-profile/profile-new-lawyers.php:928
+#: template/private-profile/profile-new-law-firms.php:639
+#: template/private-profile/profile-new-law-firms.php:1013
+msgid "Add More"
+msgstr ""
+
+#: admin/pages/profile-fields.php:303
+msgid "User Profile Fields"
+msgstr ""
+
+#: admin/pages/profile-fields.php:310
+msgid "User Meta Name"
+msgstr ""
+
+#: admin/pages/profile-fields.php:313
+msgid "Display Label"
+msgstr ""
+
+#: admin/pages/profile-fields.php:402
+msgid "Display the user meta on \"Public Profile"
+msgstr ""
+
+#: admin/pages/profile-fields.php:404
+msgid ""
+"Open the template file  your-theme/directory-pro/profile-public/profile-"
+"template-1.php and put the code on the file. It will display  the  "
+"\"first_name\" user meta value."
+msgstr ""
+
+#: admin/pages/profile-fields.php:408
+msgid "Overriding templates"
+msgstr ""
+
+#: admin/pages/profile-fields.php:409
+msgid ""
+"The template files can be found within the /directory-pro/template/ "
+"directory: Copy the template folder and paste it on your current theme "
+"folder and rename it as \"directorypro\"."
+msgstr ""
+
+#: admin/pages/protected_page.php:20
+msgid "Pages Restriction By Roles"
+msgstr ""
+
+#: admin/pages/protected_page.php:44
+msgid "Page Visibility Module :"
+msgstr ""
+
+#: admin/pages/protected_page.php:47
+msgid "Show Page By Role Access"
+msgstr ""
+
+#: admin/pages/protected_page.php:52 admin/pages/settings.php:511
+msgid "Show All"
+msgstr ""
+
+#: admin/pages/protected_page.php:58
+msgid "Select which pages are available for each user role.\t"
+msgstr ""
+
+#: admin/pages/protected_page.php:83 admin/pages/settings.php:548
+msgid "Check/Uncheck"
+msgstr ""
+
+#: admin/pages/settings.php:48
+msgid "Page"
+msgstr ""
+
+#: admin/pages/settings.php:50 template/private-profile/interested-1.php:241
+#: template/private-profile/interested-1.php:250
+msgid "Directory"
+msgstr ""
+
+#: admin/pages/settings.php:51
+msgid "Category Image/Marker"
+msgstr ""
+
+#: admin/pages/settings.php:52
+msgid "Payment Page"
+msgstr ""
+
+#: admin/pages/settings.php:54
+msgid "MailChimp"
+msgstr ""
+
+#: admin/pages/settings.php:55
+msgid "Page Redirect"
+msgstr ""
+
+#: admin/pages/settings.php:56 admin/pages/settings.php:484
+msgid "Visibility Control"
+msgstr ""
+
+#: admin/pages/settings.php:58
+msgid "Tax"
+msgstr ""
+
+#: admin/pages/settings.php:86
+msgid "Tax Setting"
+msgstr ""
+
+#: admin/pages/settings.php:111
+msgid "Tax Module "
+msgstr ""
+
+#: admin/pages/settings.php:115
+msgid "Active Tax On Registration"
+msgstr ""
+
+#: admin/pages/settings.php:120
+msgid "No Tax"
+msgstr ""
+
+#: admin/pages/settings.php:129
+msgid "Tax Type "
+msgstr ""
+
+#: admin/pages/settings.php:133
+msgid "Common Tax"
+msgstr ""
+
+#: admin/pages/settings.php:138
+msgid "Tax By Country"
+msgstr ""
+
+#: admin/pages/settings.php:150
+msgid "Common Tax % "
+msgstr ""
+
+#: admin/pages/settings.php:163 template/signup/wizard-style-2.php:160
+msgid "Country"
+msgstr ""
+
+#: admin/pages/settings.php:164
+msgid "Tax %"
+msgstr ""
+
+#: admin/pages/settings.php:465
+msgid "Note : Tax will not work on Stripe Ruccring Subscriotion Payment"
+msgstr ""
+
+#: admin/pages/settings.php:503
+msgid "Content Visibility Module "
+msgstr ""
+
+#: admin/pages/settings.php:519
+msgid "Content Show By Roles"
+msgstr ""
+
+#: admin/pages/settings.php:523
+msgid "Select which contents are available for each user role.\t"
+msgstr ""
+
+#: admin/pages/package_update.php:275 admin/pages/package_create.php:276
+msgid "Access Control/Options"
+msgstr ""
+
+#: admin/pages/package_update.php:277 admin/pages/package_create.php:278
+msgid "Maximum listing (cpt1 + cpt2)"
+msgstr ""
+
+#: admin/pages/package_update.php:280 admin/pages/package_create.php:281
+msgid "Maximum # of post by this package. Blank is none."
+msgstr ""
+
+#: admin/pages/package_update.php:284 admin/pages/package_create.php:285
+msgid "listing Visibility"
+msgstr ""
+
+#: admin/pages/package_update.php:287 admin/pages/package_create.php:288
+msgid "listing will hide after user subscription expire."
+msgstr ""
+
+#: admin/pages/package_update.php:292 admin/pages/package_create.php:293
+msgid "cpt1 Event"
+msgstr ""
+
+#: admin/pages/package_update.php:295 admin/pages/package_create.php:296
+msgid "Can Add Event."
+msgstr ""
+
+#: admin/pages/package_update.php:302 admin/pages/package_create.php:303
+msgid "cpt1's cpt2"
+msgstr ""
+
+#: admin/pages/package_update.php:305 admin/pages/package_create.php:306
+msgid "Can Add cpt2s list."
+msgstr ""
+
+#: admin/pages/package_update.php:311 admin/pages/package_create.php:312
+msgid "listing Videos"
+msgstr ""
+
+#: admin/pages/package_update.php:314 admin/pages/package_create.php:315
+msgid "Can Add Videos."
+msgstr ""
+
+#: admin/pages/package_update.php:319 admin/pages/package_create.php:320
+msgid "listing Award"
+msgstr ""
+
+#: admin/pages/package_update.php:322 admin/pages/package_create.php:323
+msgid "Can Add Award."
+msgstr ""
+
+#: admin/pages/package_update.php:328 admin/pages/package_create.php:330
+msgid "cpt2 Appointment"
+msgstr ""
+
+#: admin/pages/package_update.php:331 admin/pages/package_create.php:333
+msgid "Can Add cpt2 Appointment Shortcode"
+msgstr ""
+
+#: admin/pages/package_create.php:72 admin/pages/package_create.php:345
+msgid "Save Package"
+msgstr ""
+
+#: admin/pages/package_create.php:76
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: admin/pages/package_create.php:102
+msgid "Package Feature List"
+msgstr ""
+
+#: admin/pages/package_create.php:105
+msgid "It will display on price list table"
+msgstr ""
+
+#: admin/pages/package_create.php:108
+msgid "Billing Details"
+msgstr ""
+
+#: admin/pages/package_create.php:111
+msgid "Initial Payment"
+msgstr ""
+
+#: admin/pages/package_create.php:114
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: admin/pages/package_create.php:119
+msgid "Package Expire After"
+msgstr ""
+
+#: admin/pages/package_create.php:154
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: admin/pages/package_create.php:161
+msgid "Recurring Subscription"
+msgstr ""
+
+#: admin/pages/package_create.php:164
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: admin/pages/package_create.php:170
+msgid "Billing Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:174
+msgid "Per"
+msgstr ""
+
+#: admin/pages/package_create.php:188
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: admin/pages/package_create.php:193
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: admin/pages/package_create.php:216
+msgid "Trial"
+msgstr ""
+
+#: admin/pages/package_create.php:219
+msgid "Enable Trial Period"
+msgstr ""
+
+#: admin/pages/package_create.php:222
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: admin/pages/package_create.php:230
+msgid "Trial Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:233
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: admin/pages/package_create.php:238
+msgid "Trial Period"
+msgstr ""
+
+#: admin/pages/package_create.php:268
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: admin/pages/update.php:9
+msgid "Update Products"
+msgstr ""
+
+#: admin/pages/update.php:10
+msgid "Synchronize your Products from Amazon with latest data"
+msgstr ""
+
+#: template/profile-public/profile-template.php:86
+#: template/profile-public/profile-template.php:121
+#: template/private-profile/profile-template-1.php:711
+msgid "About"
+msgstr ""
+
+#: template/profile-public/profile-template.php:97
+#: template/cpt1/ajax-single-cpt1.php:472
+#: template/private-profile/profile-edit-law-firms.php:627
+#: template/private-profile/profile-edit-lawyers.php:556
+#: template/private-profile/profile-new-lawyers.php:658
+#: template/private-profile/profile-new-law-firms.php:551
+msgid "Phone"
+msgstr ""
+
+#: template/profile-public/profile-template.php:104
+msgid "Mobile"
+msgstr ""
+
+#: template/profile-public/profile-template.php:125
+#: template/cpt1/ajax-single-cpt1.php:482
+msgid "Social Profile"
+msgstr ""
+
+#: template/profile-public/profile-template.php:152
+msgid "User Listing"
+msgstr ""
+
+#: template/profile-public/profile-template.php:206
+msgid "VIEW DETAIL"
+msgstr ""
+
+#: template/cpt1/slider-search.php:18
+msgid "Filter By Keyword"
+msgstr ""
+
+#: template/cpt1/slider-search.php:25
+#: template/cpt1/ajax-single-cpt1.php:467
+msgid "Location"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:89
+msgid "About Us"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:99
+msgid "Added to Favorites"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:103
+#: template/cpt1/ajax-single-cpt1.php:109
+msgid "Add to Favorites"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:182
+msgid "Specialities"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:212
+#: template/private-profile/profile-edit-law-firms.php:664
+#: template/private-profile/profile-edit-lawyers.php:593
+#: template/private-profile/profile-new-lawyers.php:572
+#: template/private-profile/profile-new-law-firms.php:588
+msgid "Awards"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:268
+msgid "Video"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:305
+#: template/private-profile/profile-edit-law-firms.php:1195
+#: template/private-profile/profile-new-law-firms.php:1024
+msgid "Event"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:355
+#: template/private-profile/profile-edit-law-firms.php:812
+#: template/private-profile/profile-new-law-firms.php:662
+msgid "Our cpt2s"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:382
+msgid "View Profile"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:460
+#: template/private-profile/profile-edit-law-firms.php:615
+#: template/private-profile/profile-edit-lawyers.php:544
+#: template/private-profile/profile-new-lawyers.php:646
+#: template/private-profile/profile-new-law-firms.php:539
+msgid "Contact Info"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:475
+#: template/private-profile/profile-edit-law-firms.php:633
+#: template/private-profile/profile-edit-lawyers.php:562
+#: template/private-profile/profile-new-lawyers.php:664
+#: template/private-profile/profile-new-law-firms.php:557
+msgid "Fax"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:479
+#: template/private-profile/profile-edit-law-firms.php:647
+#: template/private-profile/profile-edit-lawyers.php:576
+#: template/private-profile/profile-new-lawyers.php:678
+#: template/private-profile/profile-new-law-firms.php:571
+msgid "Web Site"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:491
+msgid "Facebook Profile"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:497
+msgid "Twitter Profile"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:503
+msgid "linkedin Profile"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:509
+msgid "google+ Profile"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:516
+msgid "Share"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:517
+msgid "Share On Facebook"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:519
+msgid "Share On Twitter"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:521
+msgid "Share On linkedin"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:523
+msgid "Share On google+"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:549
+msgid "Working Time"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:569
+msgid "Contact Us"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:581
+#: template/cpt1/ajax-single-cpt1.php:613
+#: template/private-profile/contact_popup.php:18
+msgid "Enter Message"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:584
+#: template/contact/contact-us.php:36
+msgid "Send Message"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:610
+msgid "Claim The Listing"
+msgstr ""
+
+#: template/cpt1/ajax-single-cpt1.php:616
+msgid "Submit Claim"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:10
+msgid "Edit cpt1"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:48
+#: template/private-profile/profile-edit-lawyers.php:48
+msgid "Please "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:49
+#: template/private-profile/profile-edit-lawyers.php:49
+msgid "Login or upgrade "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:50
+#: template/private-profile/profile-edit-lawyers.php:50
+msgid "To Edit The Post."
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:68
+#: template/private-profile/profile-new-law-firms.php:58
+msgid "cpt1 Name"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:70
+#: template/private-profile/profile-new-law-firms.php:60
+msgid "Enter cpt1 Name Here"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:97
+#: template/private-profile/profile-new-law-firms.php:84
+msgid "cpt1 logo"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:117
+#: template/private-profile/profile-edit-law-firms.php:152
+#: template/private-profile/profile-edit-law-firms.php:1270
+#: template/private-profile/profile-edit-lawyers.php:120
+#: template/private-profile/profile-new-lawyers.php:94
+#: template/private-profile/profile-new-law-firms.php:95
+#: template/private-profile/profile-new-law-firms.php:113
+#: template/private-profile/profile-new-law-firms.php:1071
+msgid "Add"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:125
+#: template/private-profile/profile-new-law-firms.php:102
+msgid "Feature Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:163
+#: template/private-profile/profile-new-law-firms.php:125
+msgid "Image Gallery"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:164
+#: template/private-profile/profile-new-law-firms.php:126
+msgid "Add Images"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:202
+#: template/private-profile/profile-edit-lawyers.php:128
+#: template/private-profile/profile-new-lawyers.php:118
+#: template/private-profile/profile-new-law-firms.php:149
+msgid "Post Status"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:209
+#: template/private-profile/profile-edit-lawyers.php:135
+#: template/private-profile/profile-new-lawyers.php:125
+#: template/private-profile/profile-new-law-firms.php:156
+msgid "Publish"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:212
+#: template/private-profile/profile-edit-lawyers.php:138
+#: template/private-profile/profile-new-lawyers.php:128
+#: template/private-profile/profile-new-law-firms.php:159
+msgid "Pending Review"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:228
+#: template/private-profile/profile-edit-lawyers.php:154
+#: template/private-profile/profile-new-lawyers.php:144
+#: template/private-profile/profile-new-law-firms.php:175
+msgid "Category"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:240
+#: template/private-profile/profile-edit-lawyers.php:166
+#: template/private-profile/profile-new-lawyers.php:149
+#: template/private-profile/profile-new-law-firms.php:180
+msgid "Choose a category"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:315
+#: template/private-profile/profile-edit-lawyers.php:241
+#: template/private-profile/profile-new-lawyers.php:228
+#: template/private-profile/profile-new-law-firms.php:259
+msgid "Address"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:317
+#: template/private-profile/profile-edit-lawyers.php:243
+#: template/private-profile/profile-new-lawyers.php:230
+#: template/private-profile/profile-new-law-firms.php:261
+msgid "Enter here Here"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:327
+#: template/private-profile/profile-edit-lawyers.php:253
+#: template/private-profile/profile-new-lawyers.php:240
+#: template/private-profile/profile-new-law-firms.php:271
+msgid "Address Map"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:505
+#: template/private-profile/profile-edit-lawyers.php:434
+#: template/private-profile/profile-new-lawyers.php:412
+#: template/private-profile/profile-new-law-firms.php:441
+msgid "Specialtie(s)"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:510
+#: template/private-profile/profile-edit-law-firms.php:620
+#: template/private-profile/profile-edit-law-firms.php:669
+#: template/private-profile/profile-edit-law-firms.php:817
+#: template/private-profile/profile-edit-law-firms.php:879
+#: template/private-profile/profile-edit-law-firms.php:924
+#: template/private-profile/profile-edit-law-firms.php:964
+#: template/private-profile/profile-edit-law-firms.php:1022
+#: template/private-profile/profile-edit-law-firms.php:1200
+#: template/private-profile/profile-edit-lawyers.php:439
+#: template/private-profile/profile-edit-lawyers.php:549
+#: template/private-profile/profile-edit-lawyers.php:598
+#: template/private-profile/profile-edit-lawyers.php:746
+#: template/private-profile/profile-edit-lawyers.php:791
+#: template/private-profile/profile-edit-lawyers.php:831
+#: template/private-profile/profile-edit-lawyers.php:895
+#: template/private-profile/profile-edit-lawyers.php:1074
+#: template/private-profile/profile-new-lawyers.php:417
+#: template/private-profile/profile-new-lawyers.php:513
+#: template/private-profile/profile-new-lawyers.php:577
+#: template/private-profile/profile-new-lawyers.php:651
+#: template/private-profile/profile-new-lawyers.php:701
+#: template/private-profile/profile-new-lawyers.php:748
+#: template/private-profile/profile-new-lawyers.php:788
+#: template/private-profile/profile-new-lawyers.php:944
+msgid "Edit "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:520
+#: template/private-profile/profile-edit-lawyers.php:449
+msgid ""
+"Allergy & Immunology, Anaesthesia,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBariatric (Weight Loss) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar, Nose and Throat (ENT) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic and Reconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery and Management, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular & Interventional Radiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:629
+#: template/private-profile/profile-edit-lawyers.php:558
+#: template/private-profile/profile-new-lawyers.php:660
+#: template/private-profile/profile-new-law-firms.php:553
+msgid "Enter Phone Number"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:636
+#: template/private-profile/profile-edit-lawyers.php:565
+#: template/private-profile/profile-new-lawyers.php:667
+#: template/private-profile/profile-new-law-firms.php:560
+msgid "Enter Fax Number"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:640
+#: template/private-profile/profile-edit-lawyers.php:569
+#: template/private-profile/profile-new-lawyers.php:671
+#: template/private-profile/profile-new-law-firms.php:564
+#: template/signup/wizard-style-2.php:134
+msgid "Email Address"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:643
+#: template/private-profile/profile-edit-lawyers.php:572
+#: template/private-profile/profile-new-lawyers.php:674
+#: template/private-profile/profile-new-law-firms.php:567
+msgid "Enter Email Address"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:650
+#: template/private-profile/profile-edit-lawyers.php:579
+#: template/private-profile/profile-new-lawyers.php:681
+#: template/private-profile/profile-new-law-firms.php:574
+msgid "Enter Web Site"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:694
+#: template/private-profile/profile-edit-law-firms.php:749
+#: template/private-profile/profile-edit-lawyers.php:679
+#: template/private-profile/profile-new-lawyers.php:591
+#: template/private-profile/profile-new-law-firms.php:606
+msgid "Award Title"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:698
+#: template/private-profile/profile-edit-lawyers.php:627
+#: template/private-profile/profile-new-lawyers.php:594
+#: template/private-profile/profile-new-law-firms.php:609
+msgid "Enter award title *required"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:702
+#: template/private-profile/profile-edit-law-firms.php:756
+#: template/private-profile/profile-edit-lawyers.php:631
+#: template/private-profile/profile-edit-lawyers.php:686
+#: template/private-profile/profile-new-lawyers.php:598
+#: template/private-profile/profile-new-law-firms.php:613
+msgid "Award Description"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:705
+#: template/private-profile/profile-edit-law-firms.php:759
+#: template/private-profile/profile-edit-lawyers.php:634
+#: template/private-profile/profile-edit-lawyers.php:689
+#: template/private-profile/profile-new-lawyers.php:601
+#: template/private-profile/profile-new-law-firms.php:616
+msgid "Enter Award Description"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:709
+#: template/private-profile/profile-edit-law-firms.php:763
+#: template/private-profile/profile-edit-lawyers.php:638
+#: template/private-profile/profile-edit-lawyers.php:693
+#: template/private-profile/profile-new-lawyers.php:605
+#: template/private-profile/profile-new-law-firms.php:620
+msgid "Year(s) for which award was received"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:712
+#: template/private-profile/profile-edit-law-firms.php:766
+#: template/private-profile/profile-edit-lawyers.php:641
+#: template/private-profile/profile-edit-lawyers.php:696
+#: template/private-profile/profile-new-lawyers.php:608
+#: template/private-profile/profile-new-law-firms.php:623
+msgid "Enter Award Year"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:716
+#: template/private-profile/profile-edit-law-firms.php:770
+#: template/private-profile/profile-edit-lawyers.php:645
+#: template/private-profile/profile-edit-lawyers.php:700
+#: template/private-profile/profile-new-lawyers.php:612
+#: template/private-profile/profile-new-law-firms.php:627
+msgid "Award Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:752
+#: template/private-profile/profile-edit-lawyers.php:682
+msgid "Enter award title"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:796
+#: template/private-profile/profile-edit-lawyers.php:726
+#: template/private-profile/profile-new-lawyers.php:632
+#: template/private-profile/profile-new-law-firms.php:647
+msgid "Please upgrade your account to add Award "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:861
+#: template/private-profile/profile-new-law-firms.php:708
+msgid "Please upgrade your account to add Physician "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:874
+#: template/private-profile/profile-edit-lawyers.php:741
+#: template/private-profile/profile-new-lawyers.php:696
+#: template/private-profile/profile-new-law-firms.php:723
+msgid "Videos"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:892
+#: template/private-profile/profile-edit-lawyers.php:759
+#: template/private-profile/profile-new-lawyers.php:714
+#: template/private-profile/profile-new-law-firms.php:741
+msgid "Youtube"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:895
+#: template/private-profile/profile-edit-lawyers.php:762
+#: template/private-profile/profile-new-lawyers.php:717
+#: template/private-profile/profile-new-law-firms.php:744
+msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:899
+#: template/private-profile/profile-edit-lawyers.php:766
+msgid "Vimeo"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:902
+#: template/private-profile/profile-edit-lawyers.php:769
+#: template/private-profile/profile-new-lawyers.php:724
+#: template/private-profile/profile-new-law-firms.php:751
+msgid "Enter vimeo ID, e.g : 134173961"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:907
+#: template/private-profile/profile-edit-lawyers.php:774
+#: template/private-profile/profile-new-lawyers.php:729
+#: template/private-profile/profile-new-law-firms.php:756
+msgid "Please upgrade your account to add video "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:919
+#: template/private-profile/profile-edit-lawyers.php:786
+#: template/private-profile/profile-new-lawyers.php:743
+#: template/private-profile/profile-new-law-firms.php:770
+msgid "Social Profiles"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:959
+#: template/private-profile/profile-edit-lawyers.php:826
+#: template/private-profile/profile-new-lawyers.php:508
+#: template/private-profile/profile-new-law-firms.php:810
+msgid "Additional Info"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1017
+#: template/private-profile/profile-edit-lawyers.php:890
+#: template/private-profile/profile-new-lawyers.php:783
+#: template/private-profile/profile-new-law-firms.php:868
+msgid "Opening Time"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1055
+#: template/private-profile/profile-edit-lawyers.php:928
+#: template/private-profile/profile-new-lawyers.php:799
+#: template/private-profile/profile-new-law-firms.php:884
+msgid "Monday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1056
+#: template/private-profile/profile-edit-lawyers.php:929
+#: template/private-profile/profile-new-lawyers.php:800
+#: template/private-profile/profile-new-law-firms.php:885
+msgid "Tuesday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1057
+#: template/private-profile/profile-edit-lawyers.php:930
+#: template/private-profile/profile-new-lawyers.php:801
+#: template/private-profile/profile-new-law-firms.php:886
+msgid "Wednesday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1058
+#: template/private-profile/profile-edit-lawyers.php:931
+#: template/private-profile/profile-new-lawyers.php:802
+#: template/private-profile/profile-new-law-firms.php:887
+msgid "Thursday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1059
+#: template/private-profile/profile-edit-lawyers.php:932
+#: template/private-profile/profile-new-lawyers.php:803
+#: template/private-profile/profile-new-law-firms.php:888
+msgid "Friday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1060
+#: template/private-profile/profile-edit-lawyers.php:933
+#: template/private-profile/profile-new-lawyers.php:804
+#: template/private-profile/profile-new-law-firms.php:889
+msgid "Saturday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1061
+#: template/private-profile/profile-edit-lawyers.php:934
+#: template/private-profile/profile-new-lawyers.php:805
+#: template/private-profile/profile-new-law-firms.php:890
+msgid "Sunday"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1067
+#: template/private-profile/profile-edit-lawyers.php:940
+#: template/private-profile/profile-new-lawyers.php:811
+#: template/private-profile/profile-new-law-firms.php:896
+msgid "Closed"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1068
+#: template/private-profile/profile-edit-lawyers.php:941
+#: template/private-profile/profile-new-lawyers.php:812
+#: template/private-profile/profile-new-law-firms.php:897
+msgid "Always"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1212
+#: template/private-profile/profile-new-law-firms.php:1041
+msgid "Event Title"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1213
+#: template/private-profile/profile-new-law-firms.php:1042
+msgid "Enter Title Here"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1216
+#: template/private-profile/profile-new-law-firms.php:1045
+msgid "Event Detail"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1233
+#: template/private-profile/profile-new-law-firms.php:1060
+msgid "Event Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1282
+#: template/private-profile/profile-new-law-firms.php:1077
+msgid "Please upgrade your account to add event "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1296
+#: template/private-profile/profile-edit-lawyers.php:1120
+#: template/private-profile/profile-new-lawyers.php:989
+#: template/private-profile/profile-new-law-firms.php:1090
+msgid "Save Post"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1378
+#: template/private-profile/profile-edit-lawyers.php:1202
+#: template/private-profile/profile-new-law-firms.php:1168
+msgid "Set Feature Image "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1380
+#: template/private-profile/profile-edit-lawyers.php:1204
+#: template/private-profile/profile-new-law-firms.php:1170
+msgid "Set Feature Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1407
+#: template/private-profile/profile-edit-lawyers.php:1231
+#: template/private-profile/profile-new-law-firms.php:1246
+msgid "Set Event Image "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1409
+#: template/private-profile/profile-edit-lawyers.php:1233
+#: template/private-profile/profile-new-law-firms.php:1248
+msgid "Set Event Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1436
+#: template/private-profile/profile-edit-lawyers.php:1260
+#: template/private-profile/profile-new-law-firms.php:1271
+msgid "Set Deal/Coupon Image "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1438
+#: template/private-profile/profile-edit-lawyers.php:1262
+#: template/private-profile/profile-new-law-firms.php:1273
+msgid "Set Deal/Coupon Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1466
+#: template/private-profile/profile-edit-lawyers.php:1290
+#: template/private-profile/profile-new-law-firms.php:1299
+msgid "Gallery Images "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1468
+#: template/private-profile/profile-edit-lawyers.php:1292
+#: template/private-profile/profile-new-law-firms.php:1301
+msgid "Gallery Images"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1510
+#: template/private-profile/profile-edit-lawyers.php:1334
+#: template/private-profile/profile-new-law-firms.php:1193
+msgid "Set Logo Image "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1512
+#: template/private-profile/profile-edit-lawyers.php:1336
+#: template/private-profile/profile-new-law-firms.php:1195
+msgid "Set Logo Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1539
+#: template/private-profile/profile-edit-lawyers.php:1363
+#: template/private-profile/profile-new-lawyers.php:1088
+#: template/private-profile/profile-new-law-firms.php:1220
+msgid "Set award Image "
+msgstr ""
+
+#: template/private-profile/profile-edit-law-firms.php:1541
+#: template/private-profile/profile-edit-lawyers.php:1365
+#: template/private-profile/profile-new-lawyers.php:1090
+#: template/private-profile/profile-new-law-firms.php:1222
+msgid "Set award Image"
+msgstr ""
+
+#: template/private-profile/interested-1.php:242
+#: template/private-profile/interested-1.php:251
+#: template/private-profile/interested-1.php:303
+#: template/private-profile/my-favorites-1.php:281
+msgid "Contact"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:500
+msgid "Change Image"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:560
+#: template/private-profile/profile-all-post-1.php:27
+msgid "All Listings"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:575
+msgid "Add New cpt1"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:590
+#: template/private-profile/profile-new-lawyers.php:10
+msgid "Add New cpt2"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:653
+msgid "Upgrade My Account"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:702
+msgid "Sign out"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:803
+#: template/private-profile/profile-template-1.php:805
+#: template/private-profile/profile-edit-lawyers.php:93
+#: template/private-profile/profile-new-lawyers.php:83
+msgid "Profile Image"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:34
+msgid "cpt2 Home"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:56
+msgid "Title"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:58
+msgid "Type"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:59
+msgid "Expire"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:60
+msgid "Actions"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:152
+msgid ""
+"Currently you have no listings added. Please manage your account from the "
+"sidebar on the left."
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:181
+#: template/private-profile/my-favorites-1.php:272
+msgid "Profile"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:185
+msgid "Personal Info"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:188
+#: template/private-profile/profile-setting-1.php:302
+msgid "Change Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:191
+msgid "Social"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:194
+msgid "Privacy Settings"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:280
+#: template/private-profile/profile-setting-1.php:330
+#: template/private-profile/profile-setting-1.php:372
+msgid "Save Changes"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:289
+msgid "Current Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:293
+msgid "New Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:297
+msgid "Re-type New Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:342
+msgid "Hide Email Address "
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:346
+#: template/private-profile/profile-setting-1.php:355
+#: template/private-profile/profile-setting-1.php:364
+msgid "Yes"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:351
+msgid "Hide Phone Number"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:360
+msgid "Hide Mobile Number"
+msgstr ""
+
+#: template/private-profile/profile-login.php:17
+msgid "Sign In"
+msgstr ""
+
+#: template/private-profile/profile-login.php:26
+msgid "Username"
+msgstr ""
+
+#: template/private-profile/profile-login.php:37
+#: template/signup/wizard-style-2.php:140
+msgid "Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:49
+#: template/private-profile/profile-login.php:81
+#: template/private-profile/iv_stripe_form_upgrade.php:199
+#: template/private-profile/contact_popup.php:24
+#: template/signup/iv_stripe_form_2.php:221
+#: template/signup/paypal_form_2.php:177 template/signup/paypal_form_2.php:183
+msgid "Submit"
+msgstr ""
+
+#: template/private-profile/profile-login.php:53
+msgid "Remember"
+msgstr ""
+
+#: template/private-profile/profile-login.php:56
+msgid "Forgot Password?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:65
+msgid "Create an account"
+msgstr ""
+
+#: template/private-profile/profile-login.php:72
+msgid "Forget Password ?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:80
+msgid "Back"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:10
+msgid "Edit cpt2"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:68
+#: template/private-profile/profile-new-lawyers.php:59
+msgid "Full Name"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:70
+msgid "Enter Full Name Here"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:623
+msgid "Award Title "
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:1069
+msgid "Booking"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:1086
+#: template/private-profile/profile-new-lawyers.php:956
+msgid "Appointment Detail"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:1102
+msgid "Or, Booking Shortcode"
+msgstr ""
+
+#: template/private-profile/profile-edit-lawyers.php:1107
+msgid "Please upgrade your account to add booking detail "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:487
+msgid "Current"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:490
+#: template/private-profile/profile-level-1.php:763
+msgid "Upgrade"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:494
+msgid "Cancel"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:518
+msgid "Current Package"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:538
+msgid "Package Amount"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:568
+msgid "Package Type"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:608
+msgid "Exprie Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:630
+msgid "Next Payment Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:719
+#: template/private-profile/iv_stripe_form_upgrade.php:82
+#: template/signup/iv_stripe_form_2.php:102
+#: template/signup/paypal_form_2.php:85
+msgid "Vat/Tax"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:750
+#: template/private-profile/iv_stripe_form_upgrade.php:113
+#: template/signup/iv_stripe_form_2.php:133
+#: template/signup/paypal_form_2.php:119
+msgid "Total"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:789
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:805
+#: template/private-profile/profile-level-1.php:844
+msgid "Cancel Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:806
+#: template/private-profile/profile-level-1.php:845
+msgid "Canceling Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:812
+#: template/private-profile/profile-level-1.php:850
+msgid "Cancel Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:822
+#: template/private-profile/profile-level-1.php:859
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:43
+#: template/private-profile/profile-new-law-firms.php:43
+msgid "Please upgrade your account"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:44
+#: template/private-profile/profile-new-law-firms.php:44
+msgid "here"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:45
+#: template/private-profile/profile-new-law-firms.php:45
+msgid "to add more post."
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:61
+msgid "Enter cpt2 Full Name Here"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:132
+#: template/private-profile/profile-new-law-firms.php:163
+msgid "Draft"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:427
+msgid ""
+"Allergy & Immunology, Anaesthesia,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBariatric (Weight Loss) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar, Nose and Throat (ENT) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic and Reconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery and Management, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular & Interventional Radiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:721
+#: template/private-profile/profile-new-law-firms.php:748
+msgid "vimeo"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:939
+msgid "Appointment"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:971
+msgid "Or, Appointment Shortcode"
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:977
+msgid "Please upgrade your account to add Appointment detail "
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:1062
+msgid "Set Profile Image "
+msgstr ""
+
+#: template/private-profile/profile-new-lawyers.php:1064
+msgid "Set Profile Image"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:119
+#: template/signup/iv_stripe_form_2.php:140
+#: files/short_code_file/iv_stripe_form_display.php:3
+msgid "Card Number"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:121
+msgid "Enter card number"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:121
+msgid "Card number is not correct"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:125
+msgid "Card CVV"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:128
+msgid "CVV number is not correct"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:128
+msgid "Enter card CVC"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:132
+#: template/signup/iv_stripe_form_2.php:153
+#: files/short_code_file/iv_stripe_form_display.php:11
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: template/private-profile/my-favorites-1.php:254
+msgid "Address :"
+msgstr ""
+
+#: template/private-profile/my-favorites-1.php:296
+msgid "Note: "
+msgstr ""
+
+#: template/private-profile/my-favorites-1.php:314
+msgid "No data available"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:10
+msgid "Message Board"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:14
+#: template/contact/contact-us.php:19
+msgid "Subject"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:15
+msgid "Enter Subject"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:19
+msgid "Please Enter Message"
+msgstr ""
+
+#: template/private-profile/profile-new-law-firms.php:446
+#: template/private-profile/profile-new-law-firms.php:544
+#: template/private-profile/profile-new-law-firms.php:593
+#: template/private-profile/profile-new-law-firms.php:667
+#: template/private-profile/profile-new-law-firms.php:728
+#: template/private-profile/profile-new-law-firms.php:775
+#: template/private-profile/profile-new-law-firms.php:815
+#: template/private-profile/profile-new-law-firms.php:873
+#: template/private-profile/profile-new-law-firms.php:1029
+msgid "Edit  "
+msgstr ""
+
+#: template/private-profile/profile-new-law-firms.php:456
+msgid ""
+"Allergy & Immunology, Anaesthesia,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBariatric (Weight Loss) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Reconstruction,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBreast Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiac Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tClinical Neurophysiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColonoscopy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColorectal Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Dermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCosmetic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatologic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDermatology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDietetics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEar, Nose and Throat (ENT) Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEndocrinology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroenterology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGastroscopy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Medicine, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeneral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGynaecology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHand Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tInterventional Cardiology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLaparoscopic Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLiver Biopsy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMaxillofacial Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMohs Micrographic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMole checks and monitoring, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNail Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNeurosurgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tObstetrics,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOncology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOphthalmology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOral Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOrthopaedic Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOsteopathy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPaediatrics, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPhysiotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlastic and Reconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychiatry,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPsychotherapy, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tReconstructive Surgery, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRheumatology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSkin Cancer Surgery and Management, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUrology,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular & Interventional Radiology, \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVascular Surgery,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWireless Capsule Endoscopy \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: template/private-profile/profile-new-law-firms.php:685
+msgid "Our Physician"
+msgstr ""
+
+#: template/user-directory/directory-template.php:39
+msgid "Sort By:"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:88
+#: template/signup/wizard-style-2.php:494 template/signup/paypal_form_2.php:73
+msgid "Have a coupon?"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:146
+msgid "Card CVV "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:101
+msgid "User Information"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:129
+msgid " The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:136 template/contact/contact-us.php:13
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:163
+msgid "Please select your country"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:423
+msgid "Select Country"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:455
+msgid "Payment Info"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:493
+msgid "Hide Coupon"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:3
+msgid "Discount Coupon"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:10
+msgid "(-) Discount"
+msgstr ""
+
+#: template/pricing-table/price-table.php:124
+msgid "Sign up Now"
+msgstr ""
+
+#: template/cpt2/lawyer_categories.php:14
+msgid "cpt2 Categories"
+msgstr ""
+
+#: template/cpt2/lawyer_featured_home.php:33
+msgid " Featured cpt2"
+msgstr ""
+
+#: template/cpt2/ajax-single-cpt2.php:41
+msgid "MORE DETAIL"
+msgstr ""
+
+#: template/cpt2/cpt2_featured.php:34
+msgid "cpt2 Featured Listing"
+msgstr ""
+
+#: template/contact/contact-us.php:3
+msgid "Name:"
+msgstr ""
+
+#: template/contact/contact-us.php:5
+msgid "Your Name"
+msgstr ""
+
+#: template/contact/contact-us.php:5
+msgid "Enter your name"
+msgstr ""
+
+#: template/contact/contact-us.php:11
+msgid "Email:"
+msgstr ""
+
+#: template/contact/contact-us.php:13
+msgid "Your email"
+msgstr ""
+
+#: template/contact/contact-us.php:17
+msgid "Subject:"
+msgstr ""
+
+#: template/contact/contact-us.php:24
+msgid "Message:"
+msgstr ""
+
+#: template/contact/contact-us.php:26
+msgid "Message"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:7
+msgid "CVC"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:18
+msgid "Payment Type:"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:19
+msgid "One time payment"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:20
+msgid "Recurring monthly payment"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:26
+msgid "Submit Payment"
+msgstr ""

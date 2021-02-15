@@ -1,0 +1,3096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: falcons\n"
+"POT-Creation-Date: 2016-09-04 09:55+0600\n"
+"PO-Revision-Date: 2016-09-04 09:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: falcons <aktar567@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: single-lawyer.php:24 archive-lawyers.php:130 single-law-firm.php:16
+#: archive-law-firms.php:139 templates/contact-us-template.php:10
+#: templates/about-us.php:10 templates/full-width-page.php:10
+msgid "banner"
+msgstr ""
+
+#: single-lawyer.php:113
+msgid "Profile Description"
+msgstr ""
+
+#: single-lawyer.php:121 single-law-firm.php:162
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:143
+msgid "Added to Favorites"
+msgstr ""
+
+#: single-lawyer.php:125 single-lawyer.php:131 single-law-firm.php:166
+#: single-law-firm.php:172
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:147
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:153
+msgid "Add to Favorites"
+msgstr ""
+
+#: single-lawyer.php:155
+msgid "Qualifications "
+msgstr ""
+
+#: single-lawyer.php:219 single-law-firm.php:245
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:226
+msgid "Specialities"
+msgstr ""
+
+#: single-lawyer.php:251
+msgid "Awards & Certificates"
+msgstr ""
+
+#: single-lawyer.php:267 single-lawyer.php:396 single-law-firm.php:124
+#: single-law-firm.php:139 single-law-firm.php:290 single-law-firm.php:379
+#: single-law-firm.php:436 single-law-firm.php:482 category.php:25 tag.php:22
+#: single.php:21 footer.php:55 search.php:22 page-grid.php:26 archive.php:30
+#: templates/page/content-page.php:10 templates/topS/header-top12.php:4
+#: templates/topS/header-top10.php:4 templates/topS/header-top8.php:4
+#: templates/topS/header-top13.php:9 templates/topS/header-top3.php:3
+#: templates/topS/header-top7.php:4 templates/topS/header-top11.php:4
+#: templates/topS/header-top11.php:8 templates/topS/header-top9.php:4
+#: templates/blog/content-gridNS.php:19 templates/blog/content-listNS.php:23
+#: templates/blog/content-list.php:21 templates/blog/content-grid.php:19
+#: templates/headerS/header-four.php:10 templates/headerS/header-six.php:10
+#: templates/headerS/header-two.php:10 templates/headerS/header-five.php:10
+#: templates/headerS/header-three.php:10 templates/headerS/header-one.php:10
+#: framework/ext/widget-latest-cpt1.php:74
+#: framework/ext/widget-latest-cpt1.php:78
+#: framework/ext/widget-latest-cpt2.php:72
+#: framework/ext/widget-latest-cpt2.php:76
+#: framework/ext/widget-contact-info.php:53
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:180
+#: framework/redux/ReduxCore/inc/fields/media/field_media.php:190
+#: framework/redux/ReduxCore/inc/fields/gallery/field_gallery.php:67
+msgid "image"
+msgstr ""
+
+#: single-lawyer.php:311 single-law-firm.php:331
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:312
+msgid "Video"
+msgstr ""
+
+#: single-lawyer.php:351
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1043
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:903
+msgid "Appointment"
+msgstr ""
+
+#: single-lawyer.php:400 single-law-firm.php:523
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:504
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:492
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:507
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:567
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:610
+msgid "Contact Info"
+msgstr ""
+
+#: single-lawyer.php:406 archive-lawyers.php:240 single-law-firm.php:530
+#: archive-law-firms.php:247
+#: framework/falcons-profile/template/lawfirm/slider-search.php:43
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:511
+msgid "Location"
+msgstr ""
+
+#: single-lawyer.php:411 single-law-firm.php:535
+#: framework/falcons-profile/template/profile-public/profile-template.php:100
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:516
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:504
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:519
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:579
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:622
+msgid "Phone"
+msgstr ""
+
+#: single-lawyer.php:414 single-law-firm.php:538
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:519
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:510
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:525
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:585
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:628
+msgid "Fax"
+msgstr ""
+
+#: single-lawyer.php:416 single-law-firm.php:540
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:124
+#: framework/falcons-profile/admin/pages/settings.php:53
+#: framework/falcons-profile/template/profile-public/profile-template.php:114
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:521
+#: framework/falcons-profile/template/private-profile/interested-1.php:245
+#: framework/falcons-profile/template/private-profile/interested-1.php:254
+msgid "Email"
+msgstr ""
+
+#: single-lawyer.php:418 single-law-firm.php:542
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:523
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:524
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:539
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:599
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:642
+msgid "Website"
+msgstr ""
+
+#: single-lawyer.php:422 single-law-firm.php:545
+#: framework/falcons-profile/template/profile-public/profile-template.php:128
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:526
+msgid "Social Profile"
+msgstr ""
+
+#: single-lawyer.php:431 single-law-firm.php:554
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:535
+msgid "Facebook Profile"
+msgstr ""
+
+#: single-lawyer.php:437 single-law-firm.php:560
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:541
+msgid "Twitter Profile"
+msgstr ""
+
+#: single-lawyer.php:443 single-law-firm.php:566
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:547
+msgid "linkedin Profile"
+msgstr ""
+
+#: single-lawyer.php:449 single-law-firm.php:572
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:553
+msgid "google+ Profile"
+msgstr ""
+
+#: single-lawyer.php:457 single-law-firm.php:579
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:560
+msgid "Share"
+msgstr ""
+
+#: single-lawyer.php:458 single-law-firm.php:580
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:561
+msgid "Share On Facebook"
+msgstr ""
+
+#: single-lawyer.php:460 single-law-firm.php:582
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:563
+msgid "Share On Twitter"
+msgstr ""
+
+#: single-lawyer.php:462 single-law-firm.php:584
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:565
+msgid "Share On linkedin"
+msgstr ""
+
+#: single-lawyer.php:464 single-law-firm.php:586
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:567
+msgid "Share On google+"
+msgstr ""
+
+#: single-lawyer.php:526 single-law-firm.php:612
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:593
+msgid "Working Time"
+msgstr ""
+
+#: single-lawyer.php:545 single-law-firm.php:632
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:612
+msgid "Reviews"
+msgstr ""
+
+#: single-lawyer.php:571 single-lawyer.php:574 single-lawyer.php:577
+#: single-lawyer.php:580 single-lawyer.php:583 single-law-firm.php:660
+#: single-law-firm.php:663 single-law-firm.php:666 single-law-firm.php:669
+#: single-law-firm.php:672
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:640
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:643
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:646
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:649
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:652
+msgid "Submit Rating"
+msgstr ""
+
+#: single-lawyer.php:602
+msgid "Contact Me"
+msgstr ""
+
+#: single-lawyer.php:609 single-lawyer.php:649 single-law-firm.php:696
+#: single-law-firm.php:731
+#: framework/falcons-profile/template/private-profile/contact_popup.php:15
+msgid "Enter Subject"
+msgstr ""
+
+#: single-lawyer.php:612 single-law-firm.php:699
+msgid "Enter Email"
+msgstr ""
+
+#: single-lawyer.php:615 single-lawyer.php:652 single-law-firm.php:702
+#: single-law-firm.php:734
+#: framework/falcons-profile/template/private-profile/contact_popup.php:19
+msgid "Please Enter Message"
+msgstr ""
+
+#: single-lawyer.php:615 single-lawyer.php:652 single-law-firm.php:702
+#: single-law-firm.php:734
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:682
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:714
+#: framework/falcons-profile/template/private-profile/contact_popup.php:18
+msgid "Enter Message"
+msgstr ""
+
+#: single-lawyer.php:618 single-law-firm.php:705
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:685
+#: framework/falcons-profile/template/contact/contact-us.php:36
+msgid "Send Message"
+msgstr ""
+
+#: single-lawyer.php:645 single-lawyer.php:649 single-law-firm.php:731
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:711
+msgid "Claim The Listing"
+msgstr ""
+
+#: single-lawyer.php:655 single-law-firm.php:737
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:717
+msgid "Submit Claim"
+msgstr ""
+
+#: archive-lawyers.php:135 archive-law-firms.php:145
+msgid " Directory"
+msgstr ""
+
+#: archive-lawyers.php:157 archive-law-firms.php:165
+msgid "Keyword"
+msgstr ""
+
+#: archive-lawyers.php:249 archive-lawyers.php:273 archive-law-firms.php:257
+#: archive-law-firms.php:278 searchform.php:2
+#: framework/falcons-profile/template/lawfirm/slider-search.php:92
+msgid "Search"
+msgstr ""
+
+#: archive-lawyers.php:274 archive-law-firms.php:279
+msgid "Show Map"
+msgstr ""
+
+#: archive-lawyers.php:283 archive-lawyers.php:314 archive-law-firms.php:290
+#: archive-law-firms.php:322
+#: framework/falcons-profile/admin/pages/protected_page.php:52
+#: framework/falcons-profile/admin/pages/settings.php:517
+msgid "Show All"
+msgstr ""
+
+#: archive-lawyers.php:477 archive-law-firms.php:483
+msgid "Sorry, no data matched your criteria."
+msgstr ""
+
+#: single-law-firm.php:152
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:133
+msgid "About Us"
+msgstr ""
+
+#: single-law-firm.php:275
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:256
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:541
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:556
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:616
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:536
+msgid "Awards"
+msgstr ""
+
+#: single-law-firm.php:368
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:349
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:977
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1154
+msgid "Event"
+msgstr ""
+
+#: single-law-firm.php:418
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:399
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:615
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:638
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:764
+msgid "Our "
+msgstr ""
+
+#: single-law-firm.php:445
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:426
+msgid "View Profile"
+msgstr ""
+
+#: single-law-firm.php:690
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:670
+msgid "Contact Us"
+msgstr ""
+
+#: single-law-firm.php:728
+#: framework/falcons-profile/admin/pages/dir_setting.php:108
+#: framework/falcons-profile/template/lawfirm/ajax-single-cpt1.php:708
+msgid "Claim"
+msgstr ""
+
+#: category.php:49 tag.php:46 single.php:77 search.php:46 archive.php:54
+msgid "No post have found!"
+msgstr ""
+
+#: category.php:76 tag.php:72 single.php:163 search.php:72 page-grid.php:94
+#: page.php:70 archive.php:82 templates/blog/content-blogChoose.php:42
+#: templates/blog/content-blogChoose.php:97
+msgid "Please activate some Widgets"
+msgstr ""
+
+#: comments.php:24
+msgid "The post is password protected ! Enter password to see the post"
+msgstr ""
+
+#: comments.php:85
+msgid "comments are closed ."
+msgstr ""
+
+#: single.php:57
+msgid "No Tag have Found!"
+msgstr ""
+
+#: single.php:63
+msgid "Post navigation"
+msgstr ""
+
+#: single.php:84
+msgid "Share This Story"
+msgstr ""
+
+#: single.php:119
+msgid "Back To Home"
+msgstr ""
+
+#: single.php:129 templates/full-width-page.php:34
+msgid "Comments"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: header.php:18
+msgid "Menu"
+msgstr ""
+
+#: header.php:19
+msgid "X"
+msgstr ""
+
+#: archive-law-firms.php:423
+#: framework/falcons-profile/template/profile-public/profile-template.php:209
+msgid "VIEW DETAIL"
+msgstr ""
+
+#: page.php:44
+msgid "are closed from Admin-Pannel"
+msgstr ""
+
+#: archive.php:17
+msgid "Archives"
+msgstr ""
+
+#: templates/header-login.php:14
+msgid "&nbsp;Profile &nbsp;"
+msgstr ""
+
+#: templates/header-login.php:15
+msgid "Logout"
+msgstr ""
+
+#: templates/header-login.php:25 framework/falcons-profile/plugin.php:594
+msgid "Login"
+msgstr ""
+
+#: templates/header-login.php:29
+msgid "User name"
+msgstr ""
+
+#: templates/header-login.php:30
+#: framework/falcons-profile/template/private-profile/profile-login.php:37
+#: framework/falcons-profile/template/signup/wizard-style-2.php:140
+msgid "Password"
+msgstr ""
+
+#: templates/header-login.php:36
+msgid "Remember Me"
+msgstr ""
+
+#: templates/header-login.php:44 templates/header-login.php:47
+msgid "Register"
+msgstr ""
+
+#: templates/header-login.php:50
+msgid "username"
+msgstr ""
+
+#: templates/header-login.php:51
+msgid "email"
+msgstr ""
+
+#: templates/header-login.php:52
+msgid "password"
+msgstr ""
+
+#: templates/header-login.php:53
+msgid "Register Here"
+msgstr ""
+
+#: templates/topS/header-top8.php:8
+msgid "Call Us:"
+msgstr ""
+
+#: templates/topS/header-top13.php:12 templates/topS/header-top9.php:7
+msgid "Shopping Cart"
+msgstr ""
+
+#: templates/blog/content-blogChoose.php:18
+#: templates/blog/content-blogChoose.php:74
+#: templates/blog/content-blogChoose.php:122
+#: templates/blog/content-blogChoose.php:153
+msgid "Sorry ! no blog post found "
+msgstr ""
+
+#: framework/ext/widget-tag.php:77
+#: framework/ext/widget-newsletter-subscription.php:113
+#: framework/ext/widget-social.php:135 framework/ext/widget-categories.php:93
+#: framework/ext/widget-logo.php:70 framework/ext/widget-catagories_one.php:91
+#: framework/ext/falcons-cpt2.php:85 framework/ext/falcons-cpt1.php:87
+#: framework/ext/widget-legal.php:113
+#: framework/ext/widget-contact-info.php:129
+#: framework/ext/widget-archives.php:116
+msgid "Title:"
+msgstr ""
+
+#: framework/ext/widget-tag.php:79
+msgid "Taxonomy:"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:59
+msgid "Newsletter"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:62
+msgid ""
+" Subscribe to our newsletter to receive our latest news and updates. We do "
+"not spam."
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:66
+msgid "Enter your email address"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:118
+msgid "Google/Feedburner ID:"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:123
+msgid "Input Text:"
+msgstr ""
+
+#: framework/ext/widget-newsletter-subscription.php:127
+msgid "Submit Text:"
+msgstr ""
+
+#: framework/ext/widget-social.php:138
+msgid "Facebook Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:141
+msgid "Twitter Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:144
+msgid "Linkedin Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:147
+msgid "GooglePlus Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:150
+msgid "Pinterest Profile Link:"
+msgstr ""
+
+#: framework/ext/widget-social.php:155 framework/ext/widget-logo.php:73
+#: framework/ext/widget-legal.php:127
+#: framework/ext/widget-contact-info.php:144
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: framework/ext/widget-categories.php:97
+#: framework/ext/widget-catagories_one.php:95
+#: framework/ext/widget-archives.php:118
+msgid "Display as dropdown"
+msgstr ""
+
+#: framework/ext/widget-categories.php:100
+#: framework/ext/widget-catagories_one.php:98
+#: framework/ext/widget-archives.php:120
+msgid "Show post counts"
+msgstr ""
+
+#: framework/ext/widget-categories.php:103
+#: framework/ext/widget-catagories_one.php:101
+msgid "Show hierarchy"
+msgstr ""
+
+#: framework/ext/falcons-cpt2.php:90 framework/ext/falcons-cpt1.php:92
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/ext/falcons-cpt2.php:95 framework/ext/falcons-cpt1.php:97
+msgid "Words of words to be displayed:"
+msgstr ""
+
+#: framework/ext/falcons-cpt2.php:100 framework/ext/falcons-cpt1.php:102
+msgid "Only Display Ids "
+msgstr ""
+
+#: framework/ext/falcons-cpt2.php:101 framework/ext/falcons-cpt1.php:103
+msgid "Enter IDs by , [# of post will not work]"
+msgstr ""
+
+#: framework/ext/widget-legal.php:116
+msgid "Our Privacy & Policy Link:"
+msgstr ""
+
+#: framework/ext/widget-legal.php:119
+msgid "Terms & Conditions Link:"
+msgstr ""
+
+#: framework/ext/widget-legal.php:122
+msgid "Secure Payments Link:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:132
+msgid "Background Image:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:135
+msgid "Address:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:138
+msgid "Phone No:"
+msgstr ""
+
+#: framework/ext/widget-contact-info.php:141
+msgid "Email :"
+msgstr ""
+
+#: framework/admin/theme-functions.php:200
+msgid "Your comment is awaiting to approve"
+msgstr ""
+
+#: framework/redux/class.redux-plugin.php:298
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: framework/redux/class.redux-plugin.php:298
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: framework/redux/ReduxCore/framework.php:209
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: framework/redux/ReduxCore/framework.php:209
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/redux/ReduxCore/framework.php:213
+#: framework/redux/ReduxCore/framework.php:217
+msgid "Options"
+msgstr ""
+
+#: framework/redux/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: framework/redux/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: framework/redux/ReduxCore/templates/panel/footer.tpl.php:67
+msgid "Working..."
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: framework/redux/ReduxCore/core/panel.php:312
+msgid ""
+"Your panel has bundled outdated copies of Redux Framework template files. if "
+"you encounter functionality issues this could be the reason. Ensure you "
+"update or remove them."
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/class.redux_filesystem.php:270
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:73
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:126
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:188
+#: framework/redux/ReduxCore/inc/fields/background/field_background.php:314
+msgid "Upload"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:190
+#: framework/redux/ReduxCore/inc/fields/background/field_background.php:321
+msgid "Remove"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:145
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:200
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:56
+msgid "Title"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:149
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:153
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:167
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:220
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:170
+#: framework/falcons-profile/admin/pages/profile-fields.php:268
+#: framework/falcons-profile/admin/pages/profile-fields.php:283
+#: framework/falcons-profile/admin/pages/profile-fields.php:365
+msgid "Delete"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/media/field_media.php:149
+#: framework/redux/ReduxCore/inc/fields/background/field_background.php:277
+msgid "No media selected"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/color/field_color.php:73
+msgid "Transparent"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/select/field_select.php:83
+msgid "Select an item"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+#: framework/falcons-profile/template/private-profile/profile-login.php:92
+msgid "Back"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: framework/redux/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:394
+#: framework/uoulib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2634
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:58
+msgid "Type"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2639
+#: framework/falcons-profile/admin/pages/package_all.php:220
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:57
+msgid "Status"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2808
+#: framework/falcons-profile/admin/pages/review_fields.php:124
+#: framework/falcons-profile/admin/pages/profile-fields.php:24
+#: framework/falcons-profile/admin/pages/profile-fields.php:392
+#: framework/falcons-profile/admin/pages/protected_page.php:155
+#: framework/falcons-profile/admin/pages/settings.php:131
+msgid "Update"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/uoulib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:365
+#: framework/falcons-profile/plugin.php:425
+msgid "Categories"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:380
+#: framework/falcons-profile/plugin.php:443
+msgid "Parent Item:"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:381
+#: framework/falcons-profile/plugin.php:444
+msgid "All Items"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:382
+#: framework/falcons-profile/plugin.php:445
+msgid "Add New Item"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:383
+#: framework/falcons-profile/plugin.php:446
+msgid "Add New"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:384
+#: framework/falcons-profile/plugin.php:447
+msgid "New Item"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:385
+#: framework/falcons-profile/plugin.php:448
+msgid "Edit Item"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:386
+#: framework/falcons-profile/plugin.php:449
+msgid "Update Item"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:387
+#: framework/falcons-profile/plugin.php:450
+msgid "View Item"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:388
+#: framework/falcons-profile/plugin.php:451
+msgid "Search Item"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:389
+#: framework/falcons-profile/plugin.php:452
+msgid "Not found"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:390
+#: framework/falcons-profile/plugin.php:453
+msgid "Not found in Trash"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:489
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:492
+#: framework/falcons-profile/plugin.php:513
+#: framework/falcons-profile/plugin.php:534
+#: framework/falcons-profile/plugin.php:555
+#: framework/falcons-profile/plugin.php:576
+#: framework/falcons-profile/plugin.php:597
+msgid "Content"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:500
+#: framework/falcons-profile/plugin.php:521
+#: framework/falcons-profile/plugin.php:542
+#: framework/falcons-profile/plugin.php:563
+msgid "Style Name"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:502
+#: framework/falcons-profile/plugin.php:523
+#: framework/falcons-profile/plugin.php:544
+#: framework/falcons-profile/plugin.php:565
+#: framework/falcons-profile/plugin.php:607
+msgid "Default"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:503
+msgid "You can select the style from wp-admin e.g : style-1."
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:510
+msgid "Signup "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:524
+#: framework/falcons-profile/plugin.php:545
+msgid "."
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:531
+msgid "My Acount "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:552
+msgid "Public Profile "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:566
+msgid "You can select the style from wp-admin e.g : style-1 , style-2 "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:573
+msgid "User Directory "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:584
+msgid "Show  number of user / Page"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:586
+msgid "12"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:587
+msgid "You can set the number : 10,20 "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:605
+msgid " Login"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:608
+msgid "Default "
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:680
+msgid "Invalid Username & Password"
+msgstr ""
+
+#: framework/falcons-profile/plugin.php:2057
+#: framework/falcons-profile/plugin.php:2066
+msgid "Claim Approve "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:10
+msgid "User Setting"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:122
+msgid "Create Date"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:123
+#: framework/falcons-profile/template/private-profile/interested-1.php:244
+#: framework/falcons-profile/template/private-profile/interested-1.php:253
+#: framework/falcons-profile/template/signup/wizard-style-2.php:126
+msgid "User Name"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:125
+msgid "Expiry Date"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:126
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:578
+msgid "Payment Status"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:127
+msgid "Role"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:128
+msgid "Balance"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:129
+#: framework/falcons-profile/admin/pages/review_fields.php:53
+#: framework/falcons-profile/admin/pages/package_all.php:221
+#: framework/falcons-profile/admin/pages/profile-fields.php:47
+#: framework/falcons-profile/admin/pages/profile-fields.php:316
+msgid "Action"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:169
+msgid "Edit"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:195
+#: framework/falcons-profile/template/user-directory/directory-template.php:200
+msgid "&laquo; Previous"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/user_directory_admin.php:196
+#: framework/falcons-profile/template/user-directory/directory-template.php:201
+msgid "Next &raquo;"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:29
+msgid "Review Fields"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:39
+#: framework/falcons-profile/admin/pages/review_fields.php:139
+msgid " Review Fields"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:47
+msgid "Post Meta Name"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:50
+#: framework/falcons-profile/admin/pages/profile-fields.php:313
+msgid "Display Label"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:116
+#: framework/falcons-profile/admin/pages/profile-fields.php:295
+#: framework/falcons-profile/admin/pages/profile-fields.php:380
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:592
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:966
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:681
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1031
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:740
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1143
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:589
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:892
+msgid "Add More"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:128
+msgid ""
+"Note : Keep \"Post Meta Name\" field without space e.g Dignity_and_respect\t"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/review_fields.php:225
+msgid "Note : Keep \"Post Meta Name\" field without space e.g Bedside_Manner"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:21
+#: framework/falcons-profile/admin/pages/package_all.php:171
+#: framework/falcons-profile/admin/pages/settings.php:32
+msgid "Please install pages, email template and setting. This is required"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:21
+#: framework/falcons-profile/admin/pages/package_all.php:171
+#: framework/falcons-profile/admin/pages/settings.php:32
+msgid "Install Now"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:32
+msgid "My Account"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:43
+msgid "Short Code"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:51
+msgid "Php Code"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:60
+msgid "My Account Page"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:68
+#: framework/falcons-profile/admin/pages/package_all.php:352
+msgid "View Page"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:74
+msgid "Profile Fields Setting"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:76
+msgid "Add /Edit/ Remove Profile Fields"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:81
+#: framework/falcons-profile/admin/pages/profile-fields.php:36
+msgid "My Account Menu"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/membership-profile-wizard.php:83
+msgid "Show/Hide/Add Menu"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/directory-url.php:20
+msgid "Listing URL/ Custom Post Type"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/directory-url.php:38
+msgid "Listing URL 1 / CPT 1"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/directory-url.php:49
+msgid "Listing URL 2/ CPT 2"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dashboard.php:9
+msgid "iv_directories Affiliate Dashboard"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dashboard.php:10
+msgid "Your Dashboard, Summary, Status, Shortcuts to modules"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/metabox.php:21
+#: framework/falcons-profile/admin/pages/cpt2-metabox.php:21
+msgid "User ID :"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/metabox.php:39
+#: framework/falcons-profile/admin/pages/cpt2-metabox.php:39
+msgid "Approve"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:20
+msgid "Directory Setting"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:50
+msgid "Days #"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:57
+msgid "The new item badge will show for the days"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:62
+msgid "Listing Page toggle button[Search + Map] "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:66
+msgid "Show"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:71
+msgid "Hide"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:76
+msgid "Listing Page Top Map"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:80
+msgid "Show  Top Map"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:85
+msgid "Hide Top Map"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:92
+msgid "Listing Page Search Bar"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:96
+msgid "Show  Search Bar"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:101
+msgid "Hide Search Bar"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:112
+msgid "Show Claim"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:117
+msgid "Hide Claim"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:124
+msgid "Listing Publish By User"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:129
+msgid "Admin Will Approve "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:135
+msgid "User Can Publish"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:146
+msgid "Listing Radius"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:166
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/dir_setting.php:179
+#: framework/falcons-profile/admin/pages/settings.php:1012
+msgid "Cron Job URL"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:187
+#: framework/falcons-profile/admin/pages/package_all.php:317
+msgid "Create A New Package"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:198
+msgid "All Package / Membership Level"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:216
+#: framework/falcons-profile/admin/pages/package_create.php:100
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:664
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:26
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:23
+#: framework/falcons-profile/template/signup/paypal_form_2.php:2
+msgid "Package Name"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:217
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:700
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:65
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:76
+#: framework/falcons-profile/template/signup/paypal_form_2.php:60
+msgid "Amount"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:218
+#: framework/falcons-profile/admin/pages/profile-fields.php:44
+msgid "Link"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:219
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:588
+msgid "User Role"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:334
+msgid ""
+"User role \"Basic\" is created on the plugin activation. Paid exprired or "
+"unsuccessful payment user will set on the \"Basic\" user role."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:348
+msgid "Package Page :"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_all.php:360
+msgid ""
+"Note: You can use other available pricing table. The package link URL will "
+"go on \"Sign UP \" button."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/directory_fields.php:29
+msgid "Listing Fields"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:29
+#: framework/falcons-profile/admin/pages/map_marker.php:185
+msgid " Category Image / Map Marker"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:30
+#: framework/falcons-profile/admin/pages/map_marker.php:186
+msgid "Create Category"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:36
+#: framework/falcons-profile/admin/pages/map_marker.php:193
+msgid "Category Main"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:37
+#: framework/falcons-profile/admin/pages/map_marker.php:194
+msgid "Sub Category"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:38
+#: framework/falcons-profile/admin/pages/map_marker.php:195
+msgid "Map Marker"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:39
+#: framework/falcons-profile/admin/pages/map_marker.php:196
+#: framework/falcons-profile/admin/pages/map_marker.php:397
+#: framework/falcons-profile/admin/pages/map_marker.php:399
+msgid "Category Image"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/map_marker.php:350
+#: framework/falcons-profile/admin/pages/map_marker.php:352
+msgid "Marker Image"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:29
+msgid "Update Profile Setting"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:41
+msgid "Menu Title / Label"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:58
+msgid "cpt1 Home"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:81
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:483
+msgid "Membership Level"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:106
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:686
+msgid "Account Settings"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:129
+msgid "All Listing"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:153
+msgid "New cpt1"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:177
+msgid "New cpt2"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:202
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:622
+#: framework/falcons-profile/template/private-profile/my-favorites-1.php:210
+msgid "My Favorites"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:225
+#: framework/falcons-profile/template/private-profile/interested-1.php:219
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:637
+msgid "Who is Interested"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:303
+msgid "User Profile Fields"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:310
+msgid "User Meta Name"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:402
+msgid "Display the user meta on \"Public Profile"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:404
+msgid ""
+"Open the template file  your-theme/directory-pro/profile-public/profile-"
+"template-1.php and put the code on the file. It will display  the  "
+"\"first_name\" user meta value."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:408
+msgid "Overriding templates"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/profile-fields.php:409
+msgid ""
+"The template files can be found within the /directory-pro/template/ "
+"directory: Copy the template folder and paste it on your current theme "
+"folder and rename it as \"directorypro\"."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/protected_page.php:20
+msgid "Pages Restriction By Roles"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/protected_page.php:44
+msgid "Page Visibility Module :"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/protected_page.php:47
+msgid "Show Page By Role Access"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/protected_page.php:58
+msgid "Select which pages are available for each user role.\t"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/protected_page.php:83
+#: framework/falcons-profile/admin/pages/settings.php:554
+msgid "Check/Uncheck"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:48
+msgid "Page"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:49
+msgid "Listing URL"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:50
+#: framework/falcons-profile/template/private-profile/interested-1.php:246
+#: framework/falcons-profile/template/private-profile/interested-1.php:255
+msgid "Directory"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:51
+msgid "Category Image/Marker"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:52
+msgid "Payment Page"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:54
+msgid "MailChimp"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:55
+msgid "Page Redirect"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:56
+#: framework/falcons-profile/admin/pages/settings.php:490
+msgid "Visibility Control"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:58
+msgid "Tax"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:92
+msgid "Tax Setting"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:117
+msgid "Tax Module "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:121
+msgid "Active Tax On Registration"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:126
+msgid "No Tax"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:135
+msgid "Tax Type "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:139
+msgid "Common Tax"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:144
+msgid "Tax By Country"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:156
+msgid "Common Tax % "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:169
+#: framework/falcons-profile/template/signup/wizard-style-2.php:160
+msgid "Country"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:170
+msgid "Tax %"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:471
+msgid "Note : Tax will not work on Stripe Ruccring Subscriotion Payment"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:509
+msgid "Content Visibility Module "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:525
+msgid "Content Show By Roles"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/settings.php:529
+msgid "Select which contents are available for each user role.\t"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:279
+#: framework/falcons-profile/admin/pages/package_create.php:280
+msgid "Access Control/Options"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:284
+#: framework/falcons-profile/admin/pages/package_create.php:285
+msgid "Maximum # of post by this package. Blank is none."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:288
+#: framework/falcons-profile/admin/pages/package_create.php:289
+msgid "listing Visibility"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:291
+#: framework/falcons-profile/admin/pages/package_create.php:292
+msgid "listing will hide after user subscription expire."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:296
+#: framework/falcons-profile/admin/pages/package_create.php:297
+msgid " Event"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:299
+#: framework/falcons-profile/admin/pages/package_create.php:300
+msgid "Can Add Event."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:315
+#: framework/falcons-profile/admin/pages/package_create.php:316
+msgid "listing Videos"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:318
+#: framework/falcons-profile/admin/pages/package_create.php:319
+msgid "Can Add Videos."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:323
+#: framework/falcons-profile/admin/pages/package_create.php:324
+msgid "listing Award"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:326
+#: framework/falcons-profile/admin/pages/package_create.php:327
+msgid "Can Add Award."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_update.php:332
+#: framework/falcons-profile/admin/pages/package_create.php:334
+msgid " Appointment"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:76
+#: framework/falcons-profile/admin/pages/package_create.php:349
+msgid "Save Package"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:80
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:106
+msgid "Package Feature List"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:109
+msgid "It will display on price list table"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:112
+msgid "Billing Details"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:115
+msgid "Initial Payment"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:118
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:123
+msgid "Package Expire After"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:158
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:165
+msgid "Recurring Subscription"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:168
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:174
+msgid "Billing Amount"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:178
+msgid "Per"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:192
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:197
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:220
+msgid "Trial"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:223
+msgid "Enable Trial Period"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:226
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:234
+msgid "Trial Amount"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:237
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:242
+msgid "Trial Period"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:272
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/package_create.php:310
+msgid "Can Add cpt2s list."
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/update.php:9
+msgid "Update Products"
+msgstr ""
+
+#: framework/falcons-profile/admin/pages/update.php:10
+msgid "Synchronize your Products from Amazon with latest data"
+msgstr ""
+
+#: framework/falcons-profile/template/profile-public/profile-template.php:89
+#: framework/falcons-profile/template/profile-public/profile-template.php:124
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:728
+msgid "About"
+msgstr ""
+
+#: framework/falcons-profile/template/profile-public/profile-template.php:107
+msgid "Mobile"
+msgstr ""
+
+#: framework/falcons-profile/template/profile-public/profile-template.php:155
+msgid "User Listing"
+msgstr ""
+
+#: framework/falcons-profile/template/lawfirm/slider-search.php:36
+msgid "Filter By Keyword"
+msgstr ""
+
+#: framework/falcons-profile/template/lawfirm/slider-search.php:55
+msgid "Choose a Speciality"
+msgstr ""
+
+#: framework/falcons-profile/template/lawfirm/slider-search.php:57
+msgid ""
+"Accident Injury,Administrative,Admiralty Maritime,Adoption,Agricultural Law,"
+"Antitrust and Unfair Competition,Appeals,Appellate Practice,Arson and Fraud "
+"Defense,Asbestos Mesothelioma,Asset Protection,Auto Accidents,Aviation "
+"Litigation,Bad Faith Litigation,Bankruptcy,Bicycle Personal Injury,Brain "
+"Injury,Burglary,Business Commercial,Casualty and Property Defense,Child "
+"Abuse,Child Custody,Children,Civil Engineering,Civil Litigation,Civil "
+"Practice,Civil Rights,Collaborative Law,Collections,Commercial Litigation,"
+"Computer,Constitutional Law,Construction,Construction Claim,Construction "
+"Litigation,Consumer Debt Protection,Consumer Litigation,Contract,Copyright "
+"and Trademark,Corporate and Partnership Litigation,Corporate Planning,"
+"Corporation,Credit Card Settlement,Credit Reporting,Creditor Debtor,"
+"Creditors Rights,Criminal,Crisis Management,Directors and Officers Liability,"
+"Discrimination,Divorce,Domestic,Drug Charges,Drug Possession,DUI OWI,E-"
+"Commerce and Internet Business Law,Education,Elder Law,Emerging Business and "
+"Venture Capital,Employee Benefits and Executive Compensation,Employment Law,"
+"Entertainment,Environmental Coverage,Environmental Law,Environmental "
+"Litigation,ERISA,Estate Planning,Estate Planning and Administration,Estate "
+"Settlement,Family,Federal and State Taxation,Federal Law,FELA Railroad "
+"Injury,Felonies,Fidelity and Security,Financial Services,Food Borne Illness,"
+"Foreclosures,Franchise Law,General Practice,Government Contracts,"
+"Guardianship Conservator,Hand Surgery,Health Care,Health Regulatory Law and "
+"Litigation,Immigration,Injuries At Bars Hotels and Restaurants,Injuries from "
+"Animal Attacks,Injuries to Children,Injury,Insurance,Insurance Bad Faith,"
+"Insurance Corporate and Regulatory,Insurance Coverage,Intellectual Property,"
+"International,International Tax and Estate Planning,International Torts,"
+"Internet,Juvenile,Labor and Employment,Land Use,Landlord Tenant,Latin "
+"America Practice Group,Legal Malpractice,Liability,Litigation,Loan "
+"Modification,Long Term Disability,Main,Malpractice,Manslughter,Marine and "
+"Maritime Law,Matrimonial,Mediation Arbitration,Medicaid,Medical Devices "
+"Defense,Medical Malpractice,Mergers and Acquisitions,Military Law,"
+"Misdemeanors,Motor Vehicle Accident,Murder Homicide,Nonprofit,Oil Drilling,"
+"Oil Field Production,OSHA Defense,Patent,Personal Injury,Pharmaceuticals,"
+"Premise Liability,Privacy Law and Regulations,Pro Bono,Probate,Product "
+"Liability,Professional Liability,Professional Malpractice,Property,Public "
+"and Project Finance,Public Utilities and Energy Law,Punitive Damages,Racial "
+"Discrimination,Real Estate,Real Estate Litigation,Real Property,Reinsurance,"
+"Securities and Banking Law,Securities Arbitration and Litigation,Securities "
+"Litigation and Civil RICO,Securities Offerings and Regulations,Sentencing "
+"Issues,Sexual Assault,Sexual Harassment,Small Business,Social Security "
+"Disability,Special,Sports,State Law,Structured Settlement and Lottery "
+"Funding,Subrogation and Recovery,Tax Law,Toxic and Other Mass Torts,Traffic,"
+"Transportation,Truck Accident,Truck Crash,Trucks and Semis,Trust and Estate "
+"Litigation,Trust and Estate Planning,Unfair Insurance Practices,Vaccine "
+"Injury,Veterans Disability,Veterinarian Malpractice Defense,White Collar "
+"Crime,Wills Estates,Workers Compensation,Wrongful Death,Zoning\r\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: framework/falcons-profile/template/lawyer/lawyer_featured.php:39
+msgid " Featured Listing"
+msgstr ""
+
+#: framework/falcons-profile/template/lawyer/ajax-single-lawyer.php:85
+msgid "MORE DETAIL"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/interested-1.php:247
+#: framework/falcons-profile/template/private-profile/interested-1.php:256
+#: framework/falcons-profile/template/private-profile/interested-1.php:308
+#: framework/falcons-profile/template/private-profile/my-favorites-1.php:288
+msgid "Contact"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:519
+msgid "Change Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:577
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:27
+msgid "All Listings"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:592
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:607
+msgid "Add New "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:655
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:33
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:34
+msgid " Home"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:670
+msgid "Upgrade My Account"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:719
+msgid "Sign out"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:813
+#: framework/falcons-profile/template/private-profile/profile-template-1.php:815
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:93
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:83
+msgid "Profile Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:59
+msgid "Expire"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:60
+msgid "Actions"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-all-post-1.php:157
+msgid ""
+"Currently you have no listings added. Please manage your account from the "
+"sidebar on the left."
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:181
+#: framework/falcons-profile/template/private-profile/my-favorites-1.php:279
+msgid "Profile"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:185
+msgid "Personal Info"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:188
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:302
+msgid "Change Password"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:191
+msgid "Social"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:194
+msgid "Privacy Settings"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:280
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:330
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:372
+msgid "Save Changes"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:289
+msgid "Current Password"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:293
+msgid "New Password"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:297
+msgid "Re-type New Password"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:342
+msgid "Hide Email Address "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:346
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:355
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:364
+msgid "Yes"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:351
+msgid "Hide Phone Number"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-setting-1.php:360
+msgid "Hide Mobile Number"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:9
+msgid "New "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:43
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:43
+msgid "Please upgrade your account"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:44
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:44
+msgid "here"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:45
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:45
+msgid "to add more post."
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:58
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:68
+msgid " Name"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:60
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:70
+msgid "Enter name here"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:84
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:97
+msgid "Logo"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:95
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:113
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1024
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:120
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:117
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:152
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1229
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:94
+msgid "Add"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:102
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:125
+msgid "Feature Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:125
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:163
+msgid "Image Gallery"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:126
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:164
+msgid "Add Images"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:149
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:128
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:202
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:118
+msgid "Post Status"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:156
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:135
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:209
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:125
+msgid "Publish"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:159
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:138
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:212
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:128
+msgid "Pending Review"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:163
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:132
+msgid "Draft"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:175
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:154
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:228
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:144
+msgid "Category"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:181
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:166
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:240
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:150
+msgid "Choose a category"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:260
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:241
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:315
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:229
+msgid "Address"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:262
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:243
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:317
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:231
+msgid "Enter here Here"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:272
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:253
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:327
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:241
+msgid "Address Map"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:442
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:445
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:505
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:413
+msgid "Specialitie(s)"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:447
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:497
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:546
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:620
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:681
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:728
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:768
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:826
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:982
+msgid "Edit  "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:457
+msgid ""
+"Accident Injury,Administrative,Admiralty Maritime,Adoption,Agricultural Law,"
+"Antitrust and Unfair Competition,Appeals,Appellate Practice,Arson and Fraud "
+"Defense,Asbestos Mesothelioma,Asset Protection,Auto Accidents,Aviation "
+"Litigation,Bad Faith Litigation,Bankruptcy,Bicycle Personal Injury,Brain "
+"Injury,Burglary,Business Commercial,Casualty and Property Defense,Child "
+"Abuse,Child Custody,Children,Civil Engineering,Civil Litigation,Civil "
+"Practice,Civil Rights,Collaborative Law,Collections,Commercial Litigation,"
+"Computer,Constitutional Law,Construction,Construction Claim,Construction "
+"Litigation,Consumer Debt Protection,Consumer Litigation,Contract,Copyright "
+"and Trademark,Corporate and Partnership Litigation,Corporate Planning,"
+"Corporation,Credit Card Settlement,Credit Reporting,Creditor Debtor,"
+"Creditors Rights,Criminal,Crisis Management,Directors and Officers Liability,"
+"Discrimination,Divorce,Domestic,Drug Charges,Drug Possession,DUI OWI,E-"
+"Commerce and Internet Business Law,Education,Elder Law,Emerging Business and "
+"Venture Capital,Employee Benefits and Executive Compensation,Employment Law,"
+"Entertainment,Environmental Coverage,Environmental Law,Environmental "
+"Litigation,ERISA,Estate Planning,Estate Planning and Administration,Estate "
+"Settlement,Family,Federal and State Taxation,Federal Law,FELA Railroad "
+"Injury,Felonies,Fidelity and Security,Financial Services,Food Borne Illness,"
+"Foreclosures,Franchise Law,General Practice,Government Contracts,"
+"Guardianship Conservator,Hand Surgery,Health Care,Health Regulatory Law and "
+"Litigation,Immigration,Injuries At Bars Hotels and Restaurants,Injuries from "
+"Animal Attacks,Injuries to Children,Injury,Insurance,Insurance Bad Faith,"
+"Insurance Corporate and Regulatory,Insurance Coverage,Intellectual Property,"
+"International,International Tax and Estate Planning,International Torts,"
+"Internet,Juvenile,Labor and Employment,Land Use,Landlord Tenant,Latin "
+"America Practice Group,Legal Malpractice,Liability,Litigation,Loan "
+"Modification,Long Term Disability,Main,Malpractice,Manslughter,Marine and "
+"Maritime Law,Matrimonial,Mediation Arbitration,Medicaid,Medical Devices "
+"Defense,Medical Malpractice,Mergers and Acquisitions,Military Law,"
+"Misdemeanors,Motor Vehicle Accident,Murder Homicide,Nonprofit,Oil Drilling,"
+"Oil Field Production,OSHA Defense,Patent,Personal Injury,Pharmaceuticals,"
+"Premise Liability,Privacy Law and Regulations,Pro Bono,Probate,Product "
+"Liability,Professional Liability,Professional Malpractice,Property,Public "
+"and Project Finance,Public Utilities and Energy Law,Punitive Damages,Racial "
+"Discrimination,Real Estate,Real Estate Litigation,Real Property,Reinsurance,"
+"Securities and Banking Law,Securities Arbitration and Litigation,Securities "
+"Litigation and Civil RICO,Securities Offerings and Regulations,Sentencing "
+"Issues,Sexual Assault,Sexual Harassment,Small Business,Social Security "
+"Disability,Special,Sports,State Law,Structured Settlement and Lottery "
+"Funding,Subrogation and Recovery,Tax Law,Toxic and Other Mass Torts,Traffic,"
+"Transportation,Truck Accident,Truck Crash,Trucks and Semis,Trust and Estate "
+"Litigation,Trust and Estate Planning,Unfair Insurance Practices,Vaccine "
+"Injury,Veterans Disability,Veterinarian Malpractice Defense,White Collar "
+"Crime,Wills Estates,Workers Compensation,Wrongful Death,Zoning\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:506
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:521
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:581
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:624
+msgid "Enter Phone Number"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:513
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:528
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:588
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:631
+msgid "Enter Fax Number"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:517
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:532
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:592
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:635
+#: framework/falcons-profile/template/signup/wizard-style-2.php:134
+msgid "Email Address"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:520
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:535
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:595
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:638
+msgid "Enter Email Address"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:527
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:602
+msgid "Enter Full Web Address"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:559
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:642
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:646
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:701
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:555
+msgid "Award Title"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:562
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:590
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:650
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:558
+msgid "Enter award title *required"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:566
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:594
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:649
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:654
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:708
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:562
+msgid "Award Description"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:569
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:597
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:652
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:657
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:711
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:565
+msgid "Enter Award Description"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:573
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:601
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:656
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:661
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:715
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:569
+msgid "Year(s) for which award was received"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:576
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:604
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:659
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:664
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:718
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:572
+msgid "Enter Award Year"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:580
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:608
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:663
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:668
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:722
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:576
+msgid "Award Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:600
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:689
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:748
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:596
+msgid "Please upgrade your account to add Award "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:661
+msgid "Please upgrade your account to add Physician "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:676
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:704
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:828
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:660
+msgid "Videos"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:694
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:722
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:846
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:678
+msgid "Youtube"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:697
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:725
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:849
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:681
+msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:701
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:685
+msgid "vimeo"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:704
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:732
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:856
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:688
+msgid "Enter vimeo ID, e.g : 134173961"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:709
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:737
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:861
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:693
+msgid "Please upgrade your account to add video "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:723
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:749
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:873
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:707
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:763
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:789
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:913
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:461
+msgid "Additional Info"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:821
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:863
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:971
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:747
+msgid "Opening Time"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:837
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:902
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1014
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:763
+msgid "Monday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:838
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:903
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1015
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:764
+msgid "Tuesday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:839
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:904
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1016
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:765
+msgid "Wednesday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:840
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:905
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1017
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:766
+msgid "Thursday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:841
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:906
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1018
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:767
+msgid "Friday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:842
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:907
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1019
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:768
+msgid "Saturday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:843
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:908
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1020
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:769
+msgid "Sunday"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:849
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:914
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1026
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:775
+msgid "Closed"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:850
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:915
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1027
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:776
+msgid "Always"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:994
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1171
+msgid "Event Title"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:995
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1172
+msgid "Enter Title Here"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:998
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1175
+msgid "Event Detail"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1013
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1192
+msgid "Event Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1030
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1241
+msgid "Please upgrade your account to add event "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1043
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1094
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1255
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:953
+msgid "Save Post"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1121
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1176
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1337
+msgid "Set Feature Image "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1123
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1178
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1339
+msgid "Set Feature Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1146
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1308
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1469
+msgid "Set Logo Image "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1148
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1310
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1471
+msgid "Set Logo Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1173
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1337
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1498
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:1052
+msgid "Set award Image "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1175
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1339
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1500
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:1054
+msgid "Set award Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1199
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1205
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1366
+msgid "Set Event Image "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1201
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1207
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1368
+msgid "Set Event Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1224
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1234
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1395
+msgid "Set Deal/Coupon Image "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1226
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1236
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1397
+msgid "Set Deal/Coupon Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1252
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1264
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1425
+msgid "Gallery Images "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-law-firms.php:1254
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1266
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1427
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:17
+msgid "Sign In"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:26
+msgid "Username"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:49
+#: framework/falcons-profile/template/private-profile/profile-login.php:93
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:199
+#: framework/falcons-profile/template/private-profile/contact_popup.php:24
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:221
+#: framework/falcons-profile/template/signup/paypal_form_2.php:177
+#: framework/falcons-profile/template/signup/paypal_form_2.php:183
+msgid "Submit"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:53
+msgid "Remember"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:56
+msgid "Forgot Password?"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:77
+msgid "Create an account"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-login.php:84
+msgid "Forget Password ?"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:10
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:450
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:512
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:561
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:709
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:754
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:794
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:868
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1048
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:10
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:510
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:572
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:621
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:769
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:833
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:878
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:918
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:976
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:1159
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:418
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:466
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:541
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:615
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:665
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:712
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:752
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:908
+msgid "Edit "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:48
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:48
+msgid "Please "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:49
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:49
+msgid "Login or upgrade "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:50
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:50
+msgid "To Edit The Post."
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:68
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:59
+msgid "Full Name"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:70
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:61
+msgid "Enter Full Name Here"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:460
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:520
+msgid ""
+"Accident Injury,Administrative,Admiralty Maritime,Adoption,Agricultural Law,"
+"Antitrust and Unfair Competition,Appeals,Appellate Practice,Arson and Fraud "
+"Defense,Asbestos Mesothelioma,Asset Protection,Auto Accidents,Aviation "
+"Litigation,Bad Faith Litigation,Bankruptcy,Bicycle Personal Injury,Brain "
+"Injury,Burglary,Business Commercial,Casualty and Property Defense,Child "
+"Abuse,Child Custody,Children,Civil Engineering,Civil Litigation,Civil "
+"Practice,Civil Rights,Collaborative Law,Collections,Commercial Litigation,"
+"Computer,Constitutional Law,Construction,Construction Claim,Construction "
+"Litigation,Consumer Debt Protection,Consumer Litigation,Contract,Copyright "
+"and Trademark,Corporate and Partnership Litigation,Corporate Planning,"
+"Corporation,Credit Card Settlement,Credit Reporting,Creditor Debtor,"
+"Creditors Rights,Criminal,Crisis Management,Directors and Officers Liability,"
+"Discrimination,Divorce,Domestic,Drug Charges,Drug Possession,DUI OWI,E-"
+"Commerce and Internet Business Law,Education,Elder Law,Emerging Business and "
+"Venture Capital,Employee Benefits and Executive Compensation,Employment Law,"
+"Entertainment,Environmental Coverage,Environmental Law,Environmental "
+"Litigation,ERISA,Estate Planning,Estate Planning and Administration,Estate "
+"Settlement,Family,Federal and State Taxation,Federal Law,FELA Railroad "
+"Injury,Felonies,Fidelity and Security,Financial Services,Food Borne Illness,"
+"Foreclosures,Franchise Law,General Practice,Government Contracts,"
+"Guardianship Conservator,Hand Surgery,Health Care,Health Regulatory Law and "
+"Litigation,Immigration,Injuries At Bars Hotels and Restaurants,Injuries from "
+"Animal Attacks,Injuries to Children,Injury,Insurance,Insurance Bad Faith,"
+"Insurance Corporate and Regulatory,Insurance Coverage,Intellectual Property,"
+"International,International Tax and Estate Planning,International Torts,"
+"Internet,Juvenile,Labor and Employment,Land Use,Landlord Tenant,Latin "
+"America Practice Group,Legal Malpractice,Liability,Litigation,Loan "
+"Modification,Long Term Disability,Main,Malpractice,Manslughter,Marine and "
+"Maritime Law,Matrimonial,Mediation Arbitration,Medicaid,Medical Devices "
+"Defense,Medical Malpractice,Mergers and Acquisitions,Military Law,"
+"Misdemeanors,Motor Vehicle Accident,Murder Homicide,Nonprofit,Oil Drilling,"
+"Oil Field Production,OSHA Defense,Patent,Personal Injury,Pharmaceuticals,"
+"Premise Liability,Privacy Law and Regulations,Pro Bono,Probate,Product "
+"Liability,Professional Liability,Professional Malpractice,Property,Public "
+"and Project Finance,Public Utilities and Energy Law,Punitive Damages,Racial "
+"Discrimination,Real Estate,Real Estate Litigation,Real Property,Reinsurance,"
+"Securities and Banking Law,Securities Arbitration and Litigation,Securities "
+"Litigation and Civil RICO,Securities Offerings and Regulations,Sentencing "
+"Issues,Sexual Assault,Sexual Harassment,Small Business,Social Security "
+"Disability,Special,Sports,State Law,Structured Settlement and Lottery "
+"Funding,Subrogation and Recovery,Tax Law,Toxic and Other Mass Torts,Traffic,"
+"Transportation,Truck Accident,Truck Crash,Trucks and Semis,Trust and Estate "
+"Litigation,Trust and Estate Planning,Unfair Insurance Practices,Vaccine "
+"Injury,Veterans Disability,Veterinarian Malpractice Defense,White Collar "
+"Crime,Wills Estates,Workers Compensation,Wrongful Death,Zoning"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:542
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:645
+msgid "Enter Web Site"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:586
+msgid "Award Title "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:645
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:704
+msgid "Enter award title"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:729
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:853
+msgid "Vimeo"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1060
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:920
+msgid "Appointment Detail"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1076
+msgid "Or, Booking Shortcode"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-lawyers.php:1081
+msgid "Please upgrade your account to add booking detail "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-edit-law-firms.php:815
+msgid "Please upgrade your account to add  "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:10
+msgid "Add new "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:428
+msgid ""
+"Accident Injury,Administrative,Admiralty Maritime,Adoption,Agricultural Law,"
+"Antitrust and Unfair Competition,Appeals,Appellate Practice,Arson and Fraud "
+"Defense,Asbestos Mesothelioma,Asset Protection,Auto Accidents,Aviation "
+"Litigation,Bad Faith Litigation,Bankruptcy,Bicycle Personal Injury,Brain "
+"Injury,Burglary,Business Commercial,Casualty and Property Defense,Child "
+"Abuse,Child Custody,Children,Civil Engineering,Civil Litigation,Civil "
+"Practice,Civil Rights,Collaborative Law,Collections,Commercial Litigation,"
+"Computer,Constitutional Law,Construction,Construction Claim,Construction "
+"Litigation,Consumer Debt Protection,Consumer Litigation,Contract,Copyright "
+"and Trademark,Corporate and Partnership Litigation,Corporate Planning,"
+"Corporation,Credit Card Settlement,Credit Reporting,Creditor Debtor,"
+"Creditors Rights,Criminal,Crisis Management,Directors and Officers Liability,"
+"Discrimination,Divorce,Domestic,Drug Charges,Drug Possession,DUI OWI,E-"
+"Commerce and Internet Business Law,Education,Elder Law,Emerging Business and "
+"Venture Capital,Employee Benefits and Executive Compensation,Employment Law,"
+"Entertainment,Environmental Coverage,Environmental Law,Environmental "
+"Litigation,ERISA,Estate Planning,Estate Planning and Administration,Estate "
+"Settlement,Family,Federal and State Taxation,Federal Law,FELA Railroad "
+"Injury,Felonies,Fidelity and Security,Financial Services,Food Borne Illness,"
+"Foreclosures,Franchise Law,General Practice,Government Contracts,"
+"Guardianship Conservator,Hand Surgery,Health Care,Health Regulatory Law and "
+"Litigation,Immigration,Injuries At Bars Hotels and Restaurants,Injuries from "
+"Animal Attacks,Injuries to Children,Injury,Insurance,Insurance Bad Faith,"
+"Insurance Corporate and Regulatory,Insurance Coverage,Intellectual Property,"
+"International,International Tax and Estate Planning,International Torts,"
+"Internet,Juvenile,Labor and Employment,Land Use,Landlord Tenant,Latin "
+"America Practice Group,Legal Malpractice,Liability,Litigation,Loan "
+"Modification,Long Term Disability,Main,Malpractice,Manslughter,Marine and "
+"Maritime Law,Matrimonial,Mediation Arbitration,Medicaid,Medical Devices "
+"Defense,Medical Malpractice,Mergers and Acquisitions,Military Law,"
+"Misdemeanors,Motor Vehicle Accident,Murder Homicide,Nonprofit,Oil Drilling,"
+"Oil Field Production,OSHA Defense,Patent,Personal Injury,Pharmaceuticals,"
+"Premise Liability,Privacy Law and Regulations,Pro Bono,Probate,Product "
+"Liability,Professional Liability,Professional Malpractice,Property,Public "
+"and Project Finance,Public Utilities and Energy Law,Punitive Damages,Racial "
+"Discrimination,Real Estate,Real Estate Litigation,Real Property,Reinsurance,"
+"Securities and Banking Law,Securities Arbitration and Litigation,Securities "
+"Litigation and Civil RICO,Securities Offerings and Regulations,Sentencing "
+"Issues,Sexual Assault,Sexual Harassment,Small Business,Social Security "
+"Disability,Special,Sports,State Law,Structured Settlement and Lottery "
+"Funding,Subrogation and Recovery,Tax Law,Toxic and Other Mass Torts,Traffic,"
+"Transportation,Truck Accident,Truck Crash,Trucks and Semis,Trust and Estate "
+"Litigation,Trust and Estate Planning,Unfair Insurance Practices,Vaccine "
+"Injury,Veterans Disability,Veterinarian Malpractice Defense,White Collar "
+"Crime,Wills Estates,Workers Compensation,Wrongful Death,Zoning \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:935
+msgid "Or, Appointment Shortcode"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:941
+msgid "Please upgrade your account to add Appointment detail "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:1026
+msgid "Set Profile Image "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-new-lawyers.php:1028
+msgid "Set Profile Image"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:487
+msgid "Current"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:490
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:763
+msgid "Upgrade"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:494
+msgid "Cancel"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:518
+msgid "Current Package"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:538
+msgid "Package Amount"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:568
+msgid "Package Type"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:608
+msgid "Exprie Date"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:630
+msgid "Next Payment Date"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:719
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:82
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:102
+#: framework/falcons-profile/template/signup/paypal_form_2.php:85
+msgid "Vat/Tax"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:750
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:113
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:133
+#: framework/falcons-profile/template/signup/paypal_form_2.php:119
+msgid "Total"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:789
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:805
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:844
+msgid "Cancel Reason"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:806
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:845
+msgid "Canceling Reason"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:812
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:850
+msgid "Cancel Membership"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:822
+#: framework/falcons-profile/template/private-profile/profile-level-1.php:859
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:119
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:140
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:3
+msgid "Card Number"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:121
+msgid "Enter card number"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:121
+msgid "Card number is not correct"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:125
+msgid "Card CVV"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:128
+msgid "CVV number is not correct"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:128
+msgid "Enter card CVC"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/iv_stripe_form_upgrade.php:132
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:153
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:11
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/my-favorites-1.php:261
+msgid "Address :"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/my-favorites-1.php:303
+msgid "Note: "
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/my-favorites-1.php:321
+msgid "No data available"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/contact_popup.php:10
+msgid "Message Board"
+msgstr ""
+
+#: framework/falcons-profile/template/private-profile/contact_popup.php:14
+#: framework/falcons-profile/template/contact/contact-us.php:19
+msgid "Subject"
+msgstr ""
+
+#: framework/falcons-profile/template/user-directory/directory-template.php:39
+msgid "Sort By:"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:88
+#: framework/falcons-profile/template/signup/wizard-style-2.php:494
+#: framework/falcons-profile/template/signup/paypal_form_2.php:73
+msgid "Have a coupon?"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/iv_stripe_form_2.php:146
+msgid "Card CVV "
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:101
+msgid "User Information"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:129
+msgid " The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:136
+#: framework/falcons-profile/template/contact/contact-us.php:13
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:163
+msgid "Please select your country"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:423
+msgid "Select Country"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:455
+msgid "Payment Info"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/wizard-style-2.php:493
+msgid "Hide Coupon"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/coupon_form_2.php:3
+msgid "Discount Coupon"
+msgstr ""
+
+#: framework/falcons-profile/template/signup/coupon_form_2.php:10
+msgid "(-) Discount"
+msgstr ""
+
+#: framework/falcons-profile/template/pricing-table/price-table.php:124
+msgid "Sign up Now"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:3
+msgid "Name:"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:5
+msgid "Your Name"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:5
+msgid "Enter your name"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:11
+msgid "Email:"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:13
+msgid "Your email"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:17
+msgid "Subject:"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:24
+msgid "Message:"
+msgstr ""
+
+#: framework/falcons-profile/template/contact/contact-us.php:26
+msgid "Message"
+msgstr ""
+
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:7
+msgid "CVC"
+msgstr ""
+
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:18
+msgid "Payment Type:"
+msgstr ""
+
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:19
+msgid "One time payment"
+msgstr ""
+
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:20
+msgid "Recurring monthly payment"
+msgstr ""
+
+#: framework/falcons-profile/files/short_code_file/iv_stripe_form_display.php:26
+msgid "Submit Payment"
+msgstr ""

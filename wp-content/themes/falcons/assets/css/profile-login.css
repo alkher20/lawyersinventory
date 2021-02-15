@@ -1,0 +1,439 @@
+#login-2 .form-control-solid {
+/*background-color: #F1F3F8;*/
+color: #A6B2BA;
+border-radius: 0;
+outline: 0;
+font-size: 14px;
+padding: 10px 15px;
+line-height: 15px;
+margin: 0;
+box-shadow: none;
+}
+#login-2 .form-control-solid:focus{
+  border: 1px solid #ddd;
+  box-shadow: none;
+
+}
+#login-2 a{
+  border:none !important;
+  text-decoration: none;
+}
+#forget-password{
+  display: none;
+}
+#login-2 .content {
+background-color: #fff;
+/*border: 1px solid #6c7a8d;*/
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+-ms-border-radius: 0;
+-o-border-radius: 0;
+border-radius: 5px;
+/*max-width: 400px;*/
+max-width: 100%;
+margin: 40px auto 10px auto;
+padding: 30px 22px 0;
+padding-top: 10px;
+overflow: hidden;
+position: relative;
+}
+/*#login-2 h3 {
+color: #4db3a5;
+text-align: center;
+font-size: 28px;
+margin: 20px 0;
+font-weight: 400 !important;
+}*/
+#login-2 h3 {
+  background: #f0f0f0;
+  padding: 10px 15px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  margin: 0;
+}
+#login-2 .margin-b-30{
+  margin-bottom: 30px;
+}
+#login-2 .uppercase{
+  text-transform: uppercase;
+  outline: 0;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 10px 25px;
+}
+#login-2 .social-icons {
+  margin-left: 0;
+  padding-top: 15px;
+}
+#login-2 .social-icons li {
+  list-style: none;
+  display: inline-block;
+}
+#login-2 .social-icon{
+  padding:10px;
+  border-radius: 50% !important;
+  margin-top: 10px;
+}
+#login-2  .googleplus{
+  background-color: #db4a37;
+  color: #fff;
+  border: 1px solid #db4a37;
+}
+#login-2  .facebook{
+  background-color: #4a6d9d;
+  color: #fff;
+  border: 1px solid #4a6d9d;
+}
+#login-2  .twitter{
+  background-color: #3bc1ed;
+  color: #fff;
+  border: 1px solid #3bc1ed;
+}
+#login-2  .linkedin{
+  background-color: #0b7bb5;
+  color: #fff;
+  border: 1px solid #0b7bb5;
+}
+#login-2 button.close {
+-webkit-appearance: none;
+padding: 0;
+cursor: pointer;
+background: 0 0;
+border: 0;
+}
+#login-2 .close {
+display: inline-block;
+margin-top: 0px;
+margin-right: 0px;
+width: 9px;
+height: 9px;
+background-repeat: no-repeat !important;
+
+outline: none;
+
+}
+#login-2 .close {
+float: right;
+font-size: 21px;
+font-weight: 700;
+line-height: 1;
+color: #000;
+text-shadow: 0 1px 0 #fff;
+filter: alpha(opacity=20);
+opacity: .2;
+}
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+background-color: rgb(250, 255, 189);
+background-image: none;
+color: rgb(0, 0, 0);
+}
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active {
+color: white;
+background-color: #3b9c96;
+border-color: #307f7a;
+filter:none;
+}
+.btn-success{
+color: white;
+background-color: #44b6ae !important;
+border: 1px solid #44b6ae !important;
+filter:none;
+}
+/****
+ CSS3 Spinner Bar
+****/
+.page-spinner-bar > div,
+.block-spinner-bar > div {
+  background: #da594a;
+}
+
+
+.para{
+  font-size: 13px;
+}
+
+#login-2 .login-form{
+  margin-bottom: 0;
+}
+
+#login-2 .content .create-account {
+padding: 14px;
+text-align: center;
+background-color: #f3f3f3;
+-webkit-border-radius: 0 0 4px 4px;
+-moz-border-radius: 0 0 4px 4px;
+-ms-border-radius: 0 0 4px 4px;
+-o-border-radius: 0 0 4px 4px;
+border-radius: 0 0 4px 4px;
+font-family: 'Crimson Text', serif;
+
+
+}
+
+#login-2 .content .create-account p {
+  margin: 0 !important;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #333;
+}
+#login-2 .content .create-account p a {
+  font-weight: 600;
+  font-size: 13px;
+  color: #333;
+  padding-left: 5px;
+  text-decoration: underline;
+}
+
+#login-2 .create-account a {
+  display: inline-block;
+  margin-top: 5px;
+}
+
+/* footer copyright */
+.login .copyright {
+  text-align: center;
+  margin: 0 auto 30px 0;
+  padding: 10px;
+  color: #7a8ca5;
+  font-size: 13px;
+}
+/* Base for label styling */
+[type="checkbox"]:not(:checked),
+[type="checkbox"]:checked {
+  position: absolute;
+  left: -9999px;
+}
+[type="checkbox"]:not(:checked) + label,
+[type="checkbox"]:checked + label {
+  position: relative;
+  padding-left: 25px;
+  cursor: pointer;
+}
+
+/* checkbox aspect */
+[type="checkbox"]:not(:checked) + label:before,
+[type="checkbox"]:checked + label:before {
+  content: '';
+  position: absolute;
+  left:0; top: 4px;
+  width: 17px; height: 17px;
+  border: 1px solid #aaa;
+  background: #f8f8f8;
+  border-radius: 0px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,.3)
+}
+/* checked mark aspect */
+[type="checkbox"]:not(:checked) + label:after,
+[type="checkbox"]:checked + label:after {
+  content: '✔';
+  position: absolute;
+  top: 0; left: 4px;
+  font-size: 14px;
+  color: #c29c6a;
+  transition: all .2s;
+}
+/* checked mark aspect changes */
+[type="checkbox"]:not(:checked) + label:after {
+  opacity: 0;
+  transform: scale(0);
+}
+[type="checkbox"]:checked + label:after {
+  opacity: 1;
+  transform: scale(1);
+}
+/* disabled checkbox */
+[type="checkbox"]:disabled:not(:checked) + label:before,
+[type="checkbox"]:disabled:checked + label:before {
+  box-shadow: none;
+  border-color: #bbb;
+  background-color: #ddd;
+}
+[type="checkbox"]:disabled:checked + label:after {
+  color: #999;
+}
+[type="checkbox"]:disabled + label {
+  color: #aaa;
+}
+/* accessibility */
+[type="checkbox"]:checked:focus + label:before,
+[type="checkbox"]:not(:checked):focus + label:before {
+  border: 1px dotted #ddd;
+}
+
+/* hover style just for information */
+label:hover:before {
+  border: 1px solid #ddd!important;
+}
+
+
+/* Useless styles, just for demo design */
+.txtcenter {
+  margin-top: 4em;
+  font-size: .9em;
+  text-align: center;
+  color: #aaa;
+}
+.copy {
+ margin-top: 2em;
+}
+.copy a {
+ text-decoration: none;
+ color: #4778d9;
+}
+.margin-20{
+  margin: 10px 0 !important;
+}
+@media (max-width: 967px) {
+.para{
+    font-size: 10px;
+  }
+  }
+@media (max-width: 440px) {
+  /***
+  Login page
+  ***/
+  .login .logo {
+    margin-top: 10px;
+  }
+
+  .login .content {
+    width: 280px;
+    margin-top: 10px;
+  }
+  .login .content h3 {
+    font-size: 22px;
+  }
+  .forget-password {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .login-options .social-icons {
+    float: left;
+    padding-top: 3px;
+  }
+  .login .checkbox {
+    font-size: 13px;
+  }
+}
+
+
+/* new style begin */
+
+.blog-content {
+  background: #f8f8f8;
+}
+
+#login-2 .content {
+background-color: #fff;
+/*max-width: 400px;*/
+max-width: 100%;
+padding: 0;
+/*background: #ddd;*/
+box-shadow: 0px 2px 0px rgba(0,0,0, .1);
+
+}
+/*#login-2 h3 {
+color: #4db3a5;
+text-align: center;
+font-size: 28px;
+margin: 20px 0;
+font-weight: 400 !important;
+}*/
+#login-2 h3 {
+  background: #f0f0f0;
+  padding: 13px 15px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  color: #333;
+  font-size: 21px;
+}
+.form-content {
+  position: relative;
+  max-width: 700px;
+  margin: 50px auto;
+}
+
+@media (max-width: 991px) {
+  .form-content {
+    padding: 5px 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .form-content .para.text-right {
+    text-align: left;
+  }
+}
+
+.form-content .form-group {
+  margin-bottom: 20px !important;
+}
+
+.form-content .form-group label {
+  font-weight: normal;
+  padding-top: 5px;
+  color: #333;
+}
+
+
+.btn-new {
+  display: inline-block;
+    margin-bottom: 0;
+    font-weight: inherit;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 0;
+    white-space: nowrap;
+    color: #ffffff !important;
+    padding: 6px 21.312px;
+    transition: all 0.3s;
+    border-radius: 0px;
+    text-transform: uppercase !important;
+    font-size: 13px !important;
+    font-family: 'Crimson Text', serif;
+}
+
+.btn-new:hover,
+.btn-new.hover,
+.btn-new:focus,
+.btn-new.focus,
+.btn-new:active,
+.btn-new.active {
+  text-decoration: none;
+  color: #ffffff;
+  outline: 0;
+  background-image: none;
+}
+.btn-custom {
+  background-color: #c29c6a;
+  border: 2px solid #c29c6a;
+  color: #fff;
+  padding: 6px 30px !important;
+}
+.btn-custom:hover,
+.btn-custom.hover,
+.btn-custom:focus,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom.active {
+   background-color: #A37941;
+  border-color: #A37941;
+}
+
+
+.para label {
+  font-weight: normal !important;
+}
+
+.para input[type="checkbox"] {
+  position: relative;
+  top: 2px;
+}
+/* Change the white to any color ;) */
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
